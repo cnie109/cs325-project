@@ -1,0 +1,29 @@
+testing accuracy 11 | (8, 8) | (4, 4) | (2, 2) | 10
+Accuracy: 14.2
+testing accuracy 11 | (8, 8) | (4, 4) | (2, 2) | 14
+Accuracy: 14.1
+testing accuracy 11 | (8, 8) | (4, 4) | (2, 2) | 18
+Accuracy: 14.5
+testing accuracy 11 | (8, 8) | (4, 4) | (2, 2) | 25
+Accuracy: 14.3
+
+testing accuracy 13 | (8, 8) | (1, 1) | (2, 2) | 25 | 3003.1157851219177
+Accuracy: 14.4
+
+testing accuracy 9 | (8, 8) | (4, 4) | (2, 2) | 10
+Accuracy: 14.0
+testing accuracy 9 | (8, 8) | (4, 4) | (2, 2) | 14
+Accuracy: 13.9
+testing accuracy 9 | (8, 8) | (4, 4) | (2, 2) | 18
+Accuracy: 14.1
+
+testing accuracy 12 | (8, 8) | (4, 4) | (2, 2) | 18 | 58149.356548309326
+Accuracy: 14.5
+testing accuracy 12 | (8, 8) | (4, 4) | (2, 2) | 22 | 58147.2343313694
+Accuracy: 14.4
+testing accuracy 12 | (8, 8) | (4, 4) | (2, 2) | 27 | 58150.557691812515
+Accuracy: 14.2
+
+-- best on full dataset
+testing accuracy 12 | (8, 8) | (4, 4) | (2, 2) | 10 | 1745469762.3920875
+Accuracy: 24.6

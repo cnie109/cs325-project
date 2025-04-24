@@ -1,0 +1,1840 @@
+testing accuracy 5 | (2, 2) | (1, 1) | (1, 1) | 4
+/tmp/ipykernel_1861838/995795680.py:18: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  kNNsCats.append(subCategory.iloc[trainData['fine_labels'][i]][0].capitalize())      # 3- Get categories of each of the NNs
+/tmp/ipykernel_1861838/2904631628.py:6: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  if pred[0][0] == subCategory.iloc[testdata['fine_labels'][i]][0].capitalize():
+Accuracy: 7.7
+testing accuracy 5 | (2, 2) | (1, 1) | (1, 1) | 7
+Accuracy: 7.7
+testing accuracy 5 | (2, 2) | (1, 1) | (1, 1) | 10
+Accuracy: 7.2
+testing accuracy 5 | (2, 2) | (1, 1) | (1, 1) | 14
+Accuracy: 7.5
+testing accuracy 5 | (2, 2) | (1, 1) | (1, 1) | 18
+Accuracy: 7.4
+testing accuracy 5 | (2, 2) | (1, 1) | (1, 1) | 25
+Accuracy: 7.5
+testing accuracy 5 | (2, 2) | (1, 1) | (2, 2) | 4
+Accuracy: 9.9
+testing accuracy 5 | (2, 2) | (1, 1) | (2, 2) | 7
+Accuracy: 10.5
+testing accuracy 5 | (2, 2) | (1, 1) | (2, 2) | 10
+Accuracy: 10.7
+testing accuracy 5 | (2, 2) | (1, 1) | (2, 2) | 14
+Accuracy: 11.4
+testing accuracy 5 | (2, 2) | (1, 1) | (2, 2) | 18
+Accuracy: 11.3
+testing accuracy 5 | (2, 2) | (1, 1) | (2, 2) | 25
+Accuracy: 10.7
+testing accuracy 5 | (2, 2) | (2, 2) | (1, 1) | 4
+Accuracy: 7.2
+testing accuracy 5 | (2, 2) | (2, 2) | (1, 1) | 7
+Accuracy: 7.6
+testing accuracy 5 | (2, 2) | (2, 2) | (1, 1) | 10
+Accuracy: 7.2
+testing accuracy 5 | (2, 2) | (2, 2) | (1, 1) | 14
+Accuracy: 7.9
+testing accuracy 5 | (2, 2) | (2, 2) | (1, 1) | 18
+Accuracy: 7.7
+testing accuracy 5 | (2, 2) | (2, 2) | (1, 1) | 25
+Accuracy: 7.0
+testing accuracy 5 | (2, 2) | (2, 2) | (2, 2) | 4
+Accuracy: 8.6
+testing accuracy 5 | (2, 2) | (2, 2) | (2, 2) | 7
+Accuracy: 9.0
+testing accuracy 5 | (2, 2) | (2, 2) | (2, 2) | 10
+Accuracy: 8.9
+testing accuracy 5 | (2, 2) | (2, 2) | (2, 2) | 14
+Accuracy: 9.3
+testing accuracy 5 | (2, 2) | (2, 2) | (2, 2) | 18
+Accuracy: 9.1
+testing accuracy 5 | (2, 2) | (2, 2) | (2, 2) | 25
+Accuracy: 8.5
+testing accuracy 5 | (4, 4) | (1, 1) | (1, 1) | 4
+Accuracy: 9.7
+testing accuracy 5 | (4, 4) | (1, 1) | (1, 1) | 7
+Accuracy: 9.2
+testing accuracy 5 | (4, 4) | (1, 1) | (1, 1) | 10
+Accuracy: 8.5
+testing accuracy 5 | (4, 4) | (1, 1) | (1, 1) | 14
+Accuracy: 8.4
+testing accuracy 5 | (4, 4) | (1, 1) | (1, 1) | 18
+Accuracy: 8.3
+testing accuracy 5 | (4, 4) | (1, 1) | (1, 1) | 25
+Accuracy: 7.9
+testing accuracy 5 | (4, 4) | (1, 1) | (2, 2) | 4
+Accuracy: 9.9
+testing accuracy 5 | (4, 4) | (1, 1) | (2, 2) | 7
+Accuracy: 9.6
+testing accuracy 5 | (4, 4) | (1, 1) | (2, 2) | 10
+Accuracy: 10.1
+testing accuracy 5 | (4, 4) | (1, 1) | (2, 2) | 14
+Accuracy: 10.4
+testing accuracy 5 | (4, 4) | (1, 1) | (2, 2) | 18
+Accuracy: 10.4
+testing accuracy 5 | (4, 4) | (1, 1) | (2, 2) | 25
+Accuracy: 10.4
+testing accuracy 5 | (4, 4) | (1, 1) | (4, 4) | 4
+Accuracy: 6.9
+testing accuracy 5 | (4, 4) | (1, 1) | (4, 4) | 7
+Accuracy: 7.8
+testing accuracy 5 | (4, 4) | (1, 1) | (4, 4) | 10
+Accuracy: 7.0
+testing accuracy 5 | (4, 4) | (1, 1) | (4, 4) | 14
+Accuracy: 6.5
+testing accuracy 5 | (4, 4) | (1, 1) | (4, 4) | 18
+Accuracy: 7.0
+testing accuracy 5 | (4, 4) | (1, 1) | (4, 4) | 25
+Accuracy: 6.5
+testing accuracy 5 | (4, 4) | (2, 2) | (1, 1) | 4
+Accuracy: 8.7
+testing accuracy 5 | (4, 4) | (2, 2) | (1, 1) | 7
+Accuracy: 8.7
+testing accuracy 5 | (4, 4) | (2, 2) | (1, 1) | 10
+Accuracy: 8.0
+testing accuracy 5 | (4, 4) | (2, 2) | (1, 1) | 14
+Accuracy: 8.4
+testing accuracy 5 | (4, 4) | (2, 2) | (1, 1) | 18
+Accuracy: 7.9
+testing accuracy 5 | (4, 4) | (2, 2) | (1, 1) | 25
+Accuracy: 7.8
+testing accuracy 5 | (4, 4) | (2, 2) | (2, 2) | 4
+Accuracy: 9.7
+testing accuracy 5 | (4, 4) | (2, 2) | (2, 2) | 7
+Accuracy: 9.4
+testing accuracy 5 | (4, 4) | (2, 2) | (2, 2) | 10
+Accuracy: 9.9
+testing accuracy 5 | (4, 4) | (2, 2) | (2, 2) | 14
+Accuracy: 9.9
+testing accuracy 5 | (4, 4) | (2, 2) | (2, 2) | 18
+Accuracy: 9.9
+testing accuracy 5 | (4, 4) | (2, 2) | (2, 2) | 25
+Accuracy: 10.2
+testing accuracy 5 | (4, 4) | (2, 2) | (4, 4) | 4
+Accuracy: 7.5
+testing accuracy 5 | (4, 4) | (2, 2) | (4, 4) | 7
+Accuracy: 7.0
+testing accuracy 5 | (4, 4) | (2, 2) | (4, 4) | 10
+Accuracy: 7.1
+testing accuracy 5 | (4, 4) | (2, 2) | (4, 4) | 14
+Accuracy: 6.5
+testing accuracy 5 | (4, 4) | (2, 2) | (4, 4) | 18
+Accuracy: 6.6
+testing accuracy 5 | (4, 4) | (2, 2) | (4, 4) | 25
+Accuracy: 6.2
+testing accuracy 5 | (4, 4) | (4, 4) | (1, 1) | 4
+Accuracy: 7.7
+testing accuracy 5 | (4, 4) | (4, 4) | (1, 1) | 7
+Accuracy: 8.4
+testing accuracy 5 | (4, 4) | (4, 4) | (1, 1) | 10
+Accuracy: 7.9
+testing accuracy 5 | (4, 4) | (4, 4) | (1, 1) | 14
+Accuracy: 7.3
+testing accuracy 5 | (4, 4) | (4, 4) | (1, 1) | 18
+Accuracy: 7.2
+testing accuracy 5 | (4, 4) | (4, 4) | (1, 1) | 25
+Accuracy: 7.5
+testing accuracy 5 | (4, 4) | (4, 4) | (2, 2) | 4
+Accuracy: 8.3
+testing accuracy 5 | (4, 4) | (4, 4) | (2, 2) | 7
+Accuracy: 9.3
+testing accuracy 5 | (4, 4) | (4, 4) | (2, 2) | 10
+Accuracy: 9.5
+testing accuracy 5 | (4, 4) | (4, 4) | (2, 2) | 14
+Accuracy: 9.2
+testing accuracy 5 | (4, 4) | (4, 4) | (2, 2) | 18
+Accuracy: 9.7
+testing accuracy 5 | (4, 4) | (4, 4) | (2, 2) | 25
+Accuracy: 9.4
+testing accuracy 5 | (4, 4) | (4, 4) | (4, 4) | 4
+Accuracy: 6.1
+testing accuracy 5 | (4, 4) | (4, 4) | (4, 4) | 7
+Accuracy: 6.0
+testing accuracy 5 | (4, 4) | (4, 4) | (4, 4) | 10
+Accuracy: 6.3
+testing accuracy 5 | (4, 4) | (4, 4) | (4, 4) | 14
+Accuracy: 6.2
+testing accuracy 5 | (4, 4) | (4, 4) | (4, 4) | 18
+Accuracy: 6.6
+testing accuracy 5 | (4, 4) | (4, 4) | (4, 4) | 25
+Accuracy: 6.3
+testing accuracy 5 | (8, 8) | (1, 1) | (1, 1) | 4
+Accuracy: 8.9
+testing accuracy 5 | (8, 8) | (1, 1) | (1, 1) | 7
+Accuracy: 10.2
+testing accuracy 5 | (8, 8) | (1, 1) | (1, 1) | 10
+Accuracy: 11.0
+testing accuracy 5 | (8, 8) | (1, 1) | (1, 1) | 14
+Accuracy: 10.8
+testing accuracy 5 | (8, 8) | (1, 1) | (1, 1) | 18
+Accuracy: 10.2
+testing accuracy 5 | (8, 8) | (1, 1) | (1, 1) | 25
+Accuracy: 9.7
+testing accuracy 5 | (8, 8) | (1, 1) | (2, 2) | 4
+Accuracy: 11.8
+testing accuracy 5 | (8, 8) | (1, 1) | (2, 2) | 7
+Accuracy: 12.2
+testing accuracy 5 | (8, 8) | (1, 1) | (2, 2) | 10
+Accuracy: 13.1
+testing accuracy 5 | (8, 8) | (1, 1) | (2, 2) | 14
+Accuracy: 12.7
+testing accuracy 5 | (8, 8) | (1, 1) | (2, 2) | 18
+Accuracy: 12.9
+testing accuracy 5 | (8, 8) | (1, 1) | (2, 2) | 25
+Accuracy: 11.6
+testing accuracy 5 | (8, 8) | (1, 1) | (4, 4) | 4
+Accuracy: 10.2
+testing accuracy 5 | (8, 8) | (1, 1) | (4, 4) | 7
+Accuracy: 10.5
+testing accuracy 5 | (8, 8) | (1, 1) | (4, 4) | 10
+Accuracy: 10.4
+testing accuracy 5 | (8, 8) | (1, 1) | (4, 4) | 14
+Accuracy: 9.9
+testing accuracy 5 | (8, 8) | (1, 1) | (4, 4) | 18
+Accuracy: 10.1
+testing accuracy 5 | (8, 8) | (1, 1) | (4, 4) | 25
+Accuracy: 9.3
+testing accuracy 5 | (8, 8) | (1, 1) | (8, 8) | 4
+Accuracy: 9.3
+testing accuracy 5 | (8, 8) | (1, 1) | (8, 8) | 7
+Accuracy: 8.1
+testing accuracy 5 | (8, 8) | (1, 1) | (8, 8) | 10
+Accuracy: 7.3
+testing accuracy 5 | (8, 8) | (1, 1) | (8, 8) | 14
+Accuracy: 7.6
+testing accuracy 5 | (8, 8) | (1, 1) | (8, 8) | 18
+Accuracy: 7.7
+testing accuracy 5 | (8, 8) | (1, 1) | (8, 8) | 25
+Accuracy: 7.4
+testing accuracy 5 | (8, 8) | (2, 2) | (1, 1) | 4
+Accuracy: 9.2
+testing accuracy 5 | (8, 8) | (2, 2) | (1, 1) | 7
+Accuracy: 10.1
+testing accuracy 5 | (8, 8) | (2, 2) | (1, 1) | 10
+Accuracy: 10.5
+testing accuracy 5 | (8, 8) | (2, 2) | (1, 1) | 14
+Accuracy: 10.3
+testing accuracy 5 | (8, 8) | (2, 2) | (1, 1) | 18
+Accuracy: 9.8
+testing accuracy 5 | (8, 8) | (2, 2) | (1, 1) | 25
+Accuracy: 9.2
+testing accuracy 5 | (8, 8) | (2, 2) | (2, 2) | 4
+Accuracy: 12.3
+testing accuracy 5 | (8, 8) | (2, 2) | (2, 2) | 7
+Accuracy: 11.7
+testing accuracy 5 | (8, 8) | (2, 2) | (2, 2) | 10
+Accuracy: 12.7
+testing accuracy 5 | (8, 8) | (2, 2) | (2, 2) | 14
+Accuracy: 13.4
+testing accuracy 5 | (8, 8) | (2, 2) | (2, 2) | 18
+Accuracy: 12.5
+testing accuracy 5 | (8, 8) | (2, 2) | (2, 2) | 25
+Accuracy: 11.7
+testing accuracy 5 | (8, 8) | (2, 2) | (4, 4) | 4
+Accuracy: 10.3
+testing accuracy 5 | (8, 8) | (2, 2) | (4, 4) | 7
+Accuracy: 10.1
+testing accuracy 5 | (8, 8) | (2, 2) | (4, 4) | 10
+Accuracy: 10.7
+testing accuracy 5 | (8, 8) | (2, 2) | (4, 4) | 14
+Accuracy: 9.8
+testing accuracy 5 | (8, 8) | (2, 2) | (4, 4) | 18
+Accuracy: 9.1
+testing accuracy 5 | (8, 8) | (2, 2) | (4, 4) | 25
+Accuracy: 8.9
+testing accuracy 5 | (8, 8) | (2, 2) | (8, 8) | 4
+Accuracy: 8.6
+testing accuracy 5 | (8, 8) | (2, 2) | (8, 8) | 7
+Accuracy: 7.7
+testing accuracy 5 | (8, 8) | (2, 2) | (8, 8) | 10
+Accuracy: 7.4
+testing accuracy 5 | (8, 8) | (2, 2) | (8, 8) | 14
+Accuracy: 7.0
+testing accuracy 5 | (8, 8) | (2, 2) | (8, 8) | 18
+Accuracy: 7.7
+testing accuracy 5 | (8, 8) | (2, 2) | (8, 8) | 25
+Accuracy: 7.1
+testing accuracy 5 | (8, 8) | (4, 4) | (1, 1) | 4
+Accuracy: 9.2
+testing accuracy 5 | (8, 8) | (4, 4) | (1, 1) | 7
+Accuracy: 9.8
+testing accuracy 5 | (8, 8) | (4, 4) | (1, 1) | 10
+Accuracy: 9.0
+testing accuracy 5 | (8, 8) | (4, 4) | (1, 1) | 14
+Accuracy: 9.9
+testing accuracy 5 | (8, 8) | (4, 4) | (1, 1) | 18
+Accuracy: 9.0
+testing accuracy 5 | (8, 8) | (4, 4) | (1, 1) | 25
+Accuracy: 9.7
+testing accuracy 5 | (8, 8) | (4, 4) | (2, 2) | 4
+Accuracy: 11.3
+testing accuracy 5 | (8, 8) | (4, 4) | (2, 2) | 7
+Accuracy: 11.7
+testing accuracy 5 | (8, 8) | (4, 4) | (2, 2) | 10
+Accuracy: 11.5
+testing accuracy 5 | (8, 8) | (4, 4) | (2, 2) | 14
+Accuracy: 11.9
+testing accuracy 5 | (8, 8) | (4, 4) | (2, 2) | 18
+Accuracy: 11.7
+testing accuracy 5 | (8, 8) | (4, 4) | (2, 2) | 25
+Accuracy: 11.9
+testing accuracy 5 | (8, 8) | (4, 4) | (4, 4) | 4
+Accuracy: 9.2
+testing accuracy 5 | (8, 8) | (4, 4) | (4, 4) | 7
+Accuracy: 10.4
+testing accuracy 5 | (8, 8) | (4, 4) | (4, 4) | 10
+Accuracy: 9.8
+testing accuracy 5 | (8, 8) | (4, 4) | (4, 4) | 14
+Accuracy: 10.3
+testing accuracy 5 | (8, 8) | (4, 4) | (4, 4) | 18
+Accuracy: 9.7
+testing accuracy 5 | (8, 8) | (4, 4) | (4, 4) | 25
+Accuracy: 9.9
+testing accuracy 5 | (8, 8) | (4, 4) | (8, 8) | 4
+Accuracy: 8.8
+testing accuracy 5 | (8, 8) | (4, 4) | (8, 8) | 7
+Accuracy: 9.1
+testing accuracy 5 | (8, 8) | (4, 4) | (8, 8) | 10
+Accuracy: 9.2
+testing accuracy 5 | (8, 8) | (4, 4) | (8, 8) | 14
+Accuracy: 8.3
+testing accuracy 5 | (8, 8) | (4, 4) | (8, 8) | 18
+Accuracy: 7.8
+testing accuracy 5 | (8, 8) | (4, 4) | (8, 8) | 25
+Accuracy: 8.3
+testing accuracy 5 | (8, 8) | (8, 8) | (1, 1) | 4
+Accuracy: 8.8
+testing accuracy 5 | (8, 8) | (8, 8) | (1, 1) | 7
+Accuracy: 8.1
+testing accuracy 5 | (8, 8) | (8, 8) | (1, 1) | 10
+Accuracy: 8.2
+testing accuracy 5 | (8, 8) | (8, 8) | (1, 1) | 14
+Accuracy: 8.9
+testing accuracy 5 | (8, 8) | (8, 8) | (1, 1) | 18
+Accuracy: 8.6
+testing accuracy 5 | (8, 8) | (8, 8) | (1, 1) | 25
+Accuracy: 7.8
+testing accuracy 5 | (8, 8) | (8, 8) | (2, 2) | 4
+Accuracy: 9.8
+testing accuracy 5 | (8, 8) | (8, 8) | (2, 2) | 7
+Accuracy: 10.0
+testing accuracy 5 | (8, 8) | (8, 8) | (2, 2) | 10
+Accuracy: 10.1
+testing accuracy 5 | (8, 8) | (8, 8) | (2, 2) | 14
+Accuracy: 10.2
+testing accuracy 5 | (8, 8) | (8, 8) | (2, 2) | 18
+Accuracy: 10.7
+testing accuracy 5 | (8, 8) | (8, 8) | (2, 2) | 25
+Accuracy: 9.4
+testing accuracy 5 | (8, 8) | (8, 8) | (4, 4) | 4
+Accuracy: 8.2
+testing accuracy 5 | (8, 8) | (8, 8) | (4, 4) | 7
+Accuracy: 8.9
+testing accuracy 5 | (8, 8) | (8, 8) | (4, 4) | 10
+Accuracy: 8.6
+testing accuracy 5 | (8, 8) | (8, 8) | (4, 4) | 14
+Accuracy: 8.0
+testing accuracy 5 | (8, 8) | (8, 8) | (4, 4) | 18
+Accuracy: 8.5
+testing accuracy 5 | (8, 8) | (8, 8) | (4, 4) | 25
+Accuracy: 8.8
+testing accuracy 5 | (8, 8) | (8, 8) | (8, 8) | 4
+Accuracy: 6.1
+testing accuracy 5 | (8, 8) | (8, 8) | (8, 8) | 7
+Accuracy: 6.1
+testing accuracy 5 | (8, 8) | (8, 8) | (8, 8) | 10
+Accuracy: 6.2
+testing accuracy 5 | (8, 8) | (8, 8) | (8, 8) | 14
+Accuracy: 6.4
+testing accuracy 5 | (8, 8) | (8, 8) | (8, 8) | 18
+Accuracy: 6.7
+testing accuracy 5 | (8, 8) | (8, 8) | (8, 8) | 25
+Accuracy: 7.3
+testing accuracy 7 | (2, 2) | (1, 1) | (1, 1) | 4
+Accuracy: 6.0
+testing accuracy 7 | (2, 2) | (1, 1) | (1, 1) | 7
+Accuracy: 6.4
+testing accuracy 7 | (2, 2) | (1, 1) | (1, 1) | 10
+Accuracy: 7.0
+testing accuracy 7 | (2, 2) | (1, 1) | (1, 1) | 14
+Accuracy: 6.9
+testing accuracy 7 | (2, 2) | (1, 1) | (1, 1) | 18
+Accuracy: 7.1
+testing accuracy 7 | (2, 2) | (1, 1) | (1, 1) | 25
+Accuracy: 7.2
+testing accuracy 7 | (2, 2) | (1, 1) | (2, 2) | 4
+Accuracy: 10.5
+testing accuracy 7 | (2, 2) | (1, 1) | (2, 2) | 7
+Accuracy: 11.0
+testing accuracy 7 | (2, 2) | (1, 1) | (2, 2) | 10
+Accuracy: 11.2
+testing accuracy 7 | (2, 2) | (1, 1) | (2, 2) | 14
+Accuracy: 10.9
+testing accuracy 7 | (2, 2) | (1, 1) | (2, 2) | 18
+Accuracy: 11.8
+testing accuracy 7 | (2, 2) | (1, 1) | (2, 2) | 25
+Accuracy: 12.0
+testing accuracy 7 | (2, 2) | (2, 2) | (1, 1) | 4
+Accuracy: 5.5
+testing accuracy 7 | (2, 2) | (2, 2) | (1, 1) | 7
+Accuracy: 6.2
+testing accuracy 7 | (2, 2) | (2, 2) | (1, 1) | 10
+Accuracy: 6.4
+testing accuracy 7 | (2, 2) | (2, 2) | (1, 1) | 14
+Accuracy: 6.6
+testing accuracy 7 | (2, 2) | (2, 2) | (1, 1) | 18
+Accuracy: 7.0
+testing accuracy 7 | (2, 2) | (2, 2) | (1, 1) | 25
+Accuracy: 6.7
+testing accuracy 7 | (2, 2) | (2, 2) | (2, 2) | 4
+Accuracy: 8.9
+testing accuracy 7 | (2, 2) | (2, 2) | (2, 2) | 7
+Accuracy: 9.3
+testing accuracy 7 | (2, 2) | (2, 2) | (2, 2) | 10
+Accuracy: 9.1
+testing accuracy 7 | (2, 2) | (2, 2) | (2, 2) | 14
+Accuracy: 9.4
+testing accuracy 7 | (2, 2) | (2, 2) | (2, 2) | 18
+Accuracy: 9.9
+testing accuracy 7 | (2, 2) | (2, 2) | (2, 2) | 25
+Accuracy: 9.0
+testing accuracy 7 | (4, 4) | (1, 1) | (1, 1) | 4
+Accuracy: 7.9
+testing accuracy 7 | (4, 4) | (1, 1) | (1, 1) | 7
+Accuracy: 8.6
+testing accuracy 7 | (4, 4) | (1, 1) | (1, 1) | 10
+Accuracy: 8.8
+testing accuracy 7 | (4, 4) | (1, 1) | (1, 1) | 14
+Accuracy: 8.7
+testing accuracy 7 | (4, 4) | (1, 1) | (1, 1) | 18
+Accuracy: 8.5
+testing accuracy 7 | (4, 4) | (1, 1) | (1, 1) | 25
+Accuracy: 7.7
+testing accuracy 7 | (4, 4) | (1, 1) | (2, 2) | 4
+Accuracy: 11.2
+testing accuracy 7 | (4, 4) | (1, 1) | (2, 2) | 7
+Accuracy: 10.8
+testing accuracy 7 | (4, 4) | (1, 1) | (2, 2) | 10
+Accuracy: 11.6
+testing accuracy 7 | (4, 4) | (1, 1) | (2, 2) | 14
+Accuracy: 11.3
+testing accuracy 7 | (4, 4) | (1, 1) | (2, 2) | 18
+Accuracy: 11.4
+testing accuracy 7 | (4, 4) | (1, 1) | (2, 2) | 25
+Accuracy: 11.9
+testing accuracy 7 | (4, 4) | (1, 1) | (4, 4) | 4
+Accuracy: 8.5
+testing accuracy 7 | (4, 4) | (1, 1) | (4, 4) | 7
+Accuracy: 9.1
+testing accuracy 7 | (4, 4) | (1, 1) | (4, 4) | 10
+Accuracy: 8.2
+testing accuracy 7 | (4, 4) | (1, 1) | (4, 4) | 14
+Accuracy: 8.1
+testing accuracy 7 | (4, 4) | (1, 1) | (4, 4) | 18
+Accuracy: 7.5
+testing accuracy 7 | (4, 4) | (1, 1) | (4, 4) | 25
+Accuracy: 7.1
+testing accuracy 7 | (4, 4) | (2, 2) | (1, 1) | 4
+Accuracy: 7.9
+testing accuracy 7 | (4, 4) | (2, 2) | (1, 1) | 7
+Accuracy: 7.5
+testing accuracy 7 | (4, 4) | (2, 2) | (1, 1) | 10
+Accuracy: 8.6
+testing accuracy 7 | (4, 4) | (2, 2) | (1, 1) | 14
+Accuracy: 8.5
+testing accuracy 7 | (4, 4) | (2, 2) | (1, 1) | 18
+Accuracy: 8.0
+testing accuracy 7 | (4, 4) | (2, 2) | (1, 1) | 25
+Accuracy: 7.3
+testing accuracy 7 | (4, 4) | (2, 2) | (2, 2) | 4
+Accuracy: 10.9
+testing accuracy 7 | (4, 4) | (2, 2) | (2, 2) | 7
+Accuracy: 10.5
+testing accuracy 7 | (4, 4) | (2, 2) | (2, 2) | 10
+Accuracy: 11.2
+testing accuracy 7 | (4, 4) | (2, 2) | (2, 2) | 14
+Accuracy: 10.9
+testing accuracy 7 | (4, 4) | (2, 2) | (2, 2) | 18
+Accuracy: 10.7
+testing accuracy 7 | (4, 4) | (2, 2) | (2, 2) | 25
+Accuracy: 11.0
+testing accuracy 7 | (4, 4) | (2, 2) | (4, 4) | 4
+Accuracy: 8.8
+testing accuracy 7 | (4, 4) | (2, 2) | (4, 4) | 7
+Accuracy: 8.9
+testing accuracy 7 | (4, 4) | (2, 2) | (4, 4) | 10
+Accuracy: 8.3
+testing accuracy 7 | (4, 4) | (2, 2) | (4, 4) | 14
+Accuracy: 7.6
+testing accuracy 7 | (4, 4) | (2, 2) | (4, 4) | 18
+Accuracy: 7.7
+testing accuracy 7 | (4, 4) | (2, 2) | (4, 4) | 25
+Accuracy: 7.1
+testing accuracy 7 | (4, 4) | (4, 4) | (1, 1) | 4
+Accuracy: 7.5
+testing accuracy 7 | (4, 4) | (4, 4) | (1, 1) | 7
+Accuracy: 8.1
+testing accuracy 7 | (4, 4) | (4, 4) | (1, 1) | 10
+Accuracy: 7.8
+testing accuracy 7 | (4, 4) | (4, 4) | (1, 1) | 14
+Accuracy: 7.7
+testing accuracy 7 | (4, 4) | (4, 4) | (1, 1) | 18
+Accuracy: 7.4
+testing accuracy 7 | (4, 4) | (4, 4) | (1, 1) | 25
+Accuracy: 8.0
+testing accuracy 7 | (4, 4) | (4, 4) | (2, 2) | 4
+Accuracy: 9.3
+testing accuracy 7 | (4, 4) | (4, 4) | (2, 2) | 7
+Accuracy: 10.0
+testing accuracy 7 | (4, 4) | (4, 4) | (2, 2) | 10
+Accuracy: 9.8
+testing accuracy 7 | (4, 4) | (4, 4) | (2, 2) | 14
+Accuracy: 10.0
+testing accuracy 7 | (4, 4) | (4, 4) | (2, 2) | 18
+Accuracy: 9.3
+testing accuracy 7 | (4, 4) | (4, 4) | (2, 2) | 25
+Accuracy: 10.4
+testing accuracy 7 | (4, 4) | (4, 4) | (4, 4) | 4
+Accuracy: 7.6
+testing accuracy 7 | (4, 4) | (4, 4) | (4, 4) | 7
+Accuracy: 7.6
+testing accuracy 7 | (4, 4) | (4, 4) | (4, 4) | 10
+Accuracy: 7.6
+testing accuracy 7 | (4, 4) | (4, 4) | (4, 4) | 14
+Accuracy: 7.3
+testing accuracy 7 | (4, 4) | (4, 4) | (4, 4) | 18
+Accuracy: 7.4
+testing accuracy 7 | (4, 4) | (4, 4) | (4, 4) | 25
+Accuracy: 7.6
+testing accuracy 7 | (8, 8) | (1, 1) | (1, 1) | 4
+Accuracy: 10.1
+testing accuracy 7 | (8, 8) | (1, 1) | (1, 1) | 7
+Accuracy: 11.0
+testing accuracy 7 | (8, 8) | (1, 1) | (1, 1) | 10
+Accuracy: 10.9
+testing accuracy 7 | (8, 8) | (1, 1) | (1, 1) | 14
+Accuracy: 10.3
+testing accuracy 7 | (8, 8) | (1, 1) | (1, 1) | 18
+Accuracy: 9.8
+testing accuracy 7 | (8, 8) | (1, 1) | (1, 1) | 25
+Accuracy: 9.6
+testing accuracy 7 | (8, 8) | (1, 1) | (2, 2) | 4
+Accuracy: 11.8
+testing accuracy 7 | (8, 8) | (1, 1) | (2, 2) | 7
+Accuracy: 13.0
+testing accuracy 7 | (8, 8) | (1, 1) | (2, 2) | 10
+Accuracy: 12.4
+testing accuracy 7 | (8, 8) | (1, 1) | (2, 2) | 14
+Accuracy: 12.3
+testing accuracy 7 | (8, 8) | (1, 1) | (2, 2) | 18
+Accuracy: 11.9
+testing accuracy 7 | (8, 8) | (1, 1) | (2, 2) | 25
+Accuracy: 12.2
+testing accuracy 7 | (8, 8) | (1, 1) | (4, 4) | 4
+Accuracy: 11.2
+testing accuracy 7 | (8, 8) | (1, 1) | (4, 4) | 7
+Accuracy: 11.6
+testing accuracy 7 | (8, 8) | (1, 1) | (4, 4) | 10
+Accuracy: 10.5
+testing accuracy 7 | (8, 8) | (1, 1) | (4, 4) | 14
+Accuracy: 10.6
+testing accuracy 7 | (8, 8) | (1, 1) | (4, 4) | 18
+Accuracy: 9.4
+testing accuracy 7 | (8, 8) | (1, 1) | (4, 4) | 25
+Accuracy: 9.7
+testing accuracy 7 | (8, 8) | (1, 1) | (8, 8) | 4
+Accuracy: 8.0
+testing accuracy 7 | (8, 8) | (1, 1) | (8, 8) | 7
+Accuracy: 7.9
+testing accuracy 7 | (8, 8) | (1, 1) | (8, 8) | 10
+Accuracy: 7.5
+testing accuracy 7 | (8, 8) | (1, 1) | (8, 8) | 14
+Accuracy: 8.0
+testing accuracy 7 | (8, 8) | (1, 1) | (8, 8) | 18
+Accuracy: 8.9
+testing accuracy 7 | (8, 8) | (1, 1) | (8, 8) | 25
+Accuracy: 9.0
+testing accuracy 7 | (8, 8) | (2, 2) | (1, 1) | 4
+Accuracy: 9.6
+testing accuracy 7 | (8, 8) | (2, 2) | (1, 1) | 7
+Accuracy: 10.4
+testing accuracy 7 | (8, 8) | (2, 2) | (1, 1) | 10
+Accuracy: 10.3
+testing accuracy 7 | (8, 8) | (2, 2) | (1, 1) | 14
+Accuracy: 9.9
+testing accuracy 7 | (8, 8) | (2, 2) | (1, 1) | 18
+Accuracy: 9.5
+testing accuracy 7 | (8, 8) | (2, 2) | (1, 1) | 25
+Accuracy: 9.8
+testing accuracy 7 | (8, 8) | (2, 2) | (2, 2) | 4
+Accuracy: 11.9
+testing accuracy 7 | (8, 8) | (2, 2) | (2, 2) | 7
+Accuracy: 12.9
+testing accuracy 7 | (8, 8) | (2, 2) | (2, 2) | 10
+Accuracy: 12.2
+testing accuracy 7 | (8, 8) | (2, 2) | (2, 2) | 14
+Accuracy: 12.6
+testing accuracy 7 | (8, 8) | (2, 2) | (2, 2) | 18
+Accuracy: 12.4
+testing accuracy 7 | (8, 8) | (2, 2) | (2, 2) | 25
+Accuracy: 12.2
+testing accuracy 7 | (8, 8) | (2, 2) | (4, 4) | 4
+Accuracy: 11.4
+testing accuracy 7 | (8, 8) | (2, 2) | (4, 4) | 7
+Accuracy: 11.7
+testing accuracy 7 | (8, 8) | (2, 2) | (4, 4) | 10
+Accuracy: 11.2
+testing accuracy 7 | (8, 8) | (2, 2) | (4, 4) | 14
+Accuracy: 10.6
+testing accuracy 7 | (8, 8) | (2, 2) | (4, 4) | 18
+Accuracy: 10.4
+testing accuracy 7 | (8, 8) | (2, 2) | (4, 4) | 25
+Accuracy: 9.8
+testing accuracy 7 | (8, 8) | (2, 2) | (8, 8) | 4
+Accuracy: 8.2
+testing accuracy 7 | (8, 8) | (2, 2) | (8, 8) | 7
+Accuracy: 7.2
+testing accuracy 7 | (8, 8) | (2, 2) | (8, 8) | 10
+Accuracy: 7.4
+testing accuracy 7 | (8, 8) | (2, 2) | (8, 8) | 14
+Accuracy: 8.4
+testing accuracy 7 | (8, 8) | (2, 2) | (8, 8) | 18
+Accuracy: 8.4
+testing accuracy 7 | (8, 8) | (2, 2) | (8, 8) | 25
+Accuracy: 8.7
+testing accuracy 7 | (8, 8) | (4, 4) | (1, 1) | 4
+Accuracy: 9.4
+testing accuracy 7 | (8, 8) | (4, 4) | (1, 1) | 7
+Accuracy: 9.4
+testing accuracy 7 | (8, 8) | (4, 4) | (1, 1) | 10
+Accuracy: 9.4
+testing accuracy 7 | (8, 8) | (4, 4) | (1, 1) | 14
+Accuracy: 9.6
+testing accuracy 7 | (8, 8) | (4, 4) | (1, 1) | 18
+Accuracy: 8.8
+testing accuracy 7 | (8, 8) | (4, 4) | (1, 1) | 25
+Accuracy: 9.2
+testing accuracy 7 | (8, 8) | (4, 4) | (2, 2) | 4
+Accuracy: 12.9
+testing accuracy 7 | (8, 8) | (4, 4) | (2, 2) | 7
+Accuracy: 13.0
+testing accuracy 7 | (8, 8) | (4, 4) | (2, 2) | 10
+Accuracy: 12.9
+testing accuracy 7 | (8, 8) | (4, 4) | (2, 2) | 14
+Accuracy: 12.9
+testing accuracy 7 | (8, 8) | (4, 4) | (2, 2) | 18
+Accuracy: 13.4
+testing accuracy 7 | (8, 8) | (4, 4) | (2, 2) | 25
+Accuracy: 12.4
+testing accuracy 7 | (8, 8) | (4, 4) | (4, 4) | 4
+Accuracy: 9.7
+testing accuracy 7 | (8, 8) | (4, 4) | (4, 4) | 7
+Accuracy: 10.4
+testing accuracy 7 | (8, 8) | (4, 4) | (4, 4) | 10
+Accuracy: 10.7
+testing accuracy 7 | (8, 8) | (4, 4) | (4, 4) | 14
+Accuracy: 10.8
+testing accuracy 7 | (8, 8) | (4, 4) | (4, 4) | 18
+Accuracy: 10.5
+testing accuracy 7 | (8, 8) | (4, 4) | (4, 4) | 25
+Accuracy: 9.6
+testing accuracy 7 | (8, 8) | (4, 4) | (8, 8) | 4
+Accuracy: 8.7
+testing accuracy 7 | (8, 8) | (4, 4) | (8, 8) | 7
+Accuracy: 8.1
+testing accuracy 7 | (8, 8) | (4, 4) | (8, 8) | 10
+Accuracy: 8.5
+testing accuracy 7 | (8, 8) | (4, 4) | (8, 8) | 14
+Accuracy: 9.0
+testing accuracy 7 | (8, 8) | (4, 4) | (8, 8) | 18
+Accuracy: 8.7
+testing accuracy 7 | (8, 8) | (4, 4) | (8, 8) | 25
+Accuracy: 9.6
+testing accuracy 7 | (8, 8) | (8, 8) | (1, 1) | 4
+Accuracy: 8.2
+testing accuracy 7 | (8, 8) | (8, 8) | (1, 1) | 7
+Accuracy: 8.5
+testing accuracy 7 | (8, 8) | (8, 8) | (1, 1) | 10
+Accuracy: 7.7
+testing accuracy 7 | (8, 8) | (8, 8) | (1, 1) | 14
+Accuracy: 7.8
+testing accuracy 7 | (8, 8) | (8, 8) | (1, 1) | 18
+Accuracy: 6.9
+testing accuracy 7 | (8, 8) | (8, 8) | (1, 1) | 25
+Accuracy: 6.9
+testing accuracy 7 | (8, 8) | (8, 8) | (2, 2) | 4
+Accuracy: 10.1
+testing accuracy 7 | (8, 8) | (8, 8) | (2, 2) | 7
+Accuracy: 10.9
+testing accuracy 7 | (8, 8) | (8, 8) | (2, 2) | 10
+Accuracy: 10.4
+testing accuracy 7 | (8, 8) | (8, 8) | (2, 2) | 14
+Accuracy: 10.0
+testing accuracy 7 | (8, 8) | (8, 8) | (2, 2) | 18
+Accuracy: 10.5
+testing accuracy 7 | (8, 8) | (8, 8) | (2, 2) | 25
+Accuracy: 10.6
+testing accuracy 7 | (8, 8) | (8, 8) | (4, 4) | 4
+Accuracy: 7.9
+testing accuracy 7 | (8, 8) | (8, 8) | (4, 4) | 7
+Accuracy: 8.1
+testing accuracy 7 | (8, 8) | (8, 8) | (4, 4) | 10
+Accuracy: 9.3
+testing accuracy 7 | (8, 8) | (8, 8) | (4, 4) | 14
+Accuracy: 9.9
+testing accuracy 7 | (8, 8) | (8, 8) | (4, 4) | 18
+Accuracy: 9.1
+testing accuracy 7 | (8, 8) | (8, 8) | (4, 4) | 25
+Accuracy: 9.1
+testing accuracy 7 | (8, 8) | (8, 8) | (8, 8) | 4
+Accuracy: 5.5
+testing accuracy 7 | (8, 8) | (8, 8) | (8, 8) | 7
+Accuracy: 5.6
+testing accuracy 7 | (8, 8) | (8, 8) | (8, 8) | 10
+Accuracy: 6.7
+testing accuracy 7 | (8, 8) | (8, 8) | (8, 8) | 14
+Accuracy: 6.2
+testing accuracy 7 | (8, 8) | (8, 8) | (8, 8) | 18
+Accuracy: 5.8
+testing accuracy 7 | (8, 8) | (8, 8) | (8, 8) | 25
+Accuracy: 5.7
+testing accuracy 9 | (2, 2) | (1, 1) | (1, 1) | 4
+Accuracy: 4.7
+testing accuracy 9 | (2, 2) | (1, 1) | (1, 1) | 7
+Accuracy: 5.2
+testing accuracy 9 | (2, 2) | (1, 1) | (1, 1) | 10
+Accuracy: 5.4
+testing accuracy 9 | (2, 2) | (1, 1) | (1, 1) | 14
+Accuracy: 5.4
+testing accuracy 9 | (2, 2) | (1, 1) | (1, 1) | 18
+Accuracy: 5.9
+testing accuracy 9 | (2, 2) | (1, 1) | (1, 1) | 25
+Accuracy: 6.2
+testing accuracy 9 | (2, 2) | (1, 1) | (2, 2) | 4
+Accuracy: 10.4
+testing accuracy 9 | (2, 2) | (1, 1) | (2, 2) | 7
+Accuracy: 11.0
+testing accuracy 9 | (2, 2) | (1, 1) | (2, 2) | 10
+Accuracy: 10.7
+testing accuracy 9 | (2, 2) | (1, 1) | (2, 2) | 14
+Accuracy: 11.0
+testing accuracy 9 | (2, 2) | (1, 1) | (2, 2) | 18
+Accuracy: 10.9
+testing accuracy 9 | (2, 2) | (1, 1) | (2, 2) | 25
+Accuracy: 11.6
+testing accuracy 9 | (2, 2) | (2, 2) | (1, 1) | 4
+Accuracy: 4.3
+testing accuracy 9 | (2, 2) | (2, 2) | (1, 1) | 7
+Accuracy: 5.3
+testing accuracy 9 | (2, 2) | (2, 2) | (1, 1) | 10
+Accuracy: 5.2
+testing accuracy 9 | (2, 2) | (2, 2) | (1, 1) | 14
+Accuracy: 5.7
+testing accuracy 9 | (2, 2) | (2, 2) | (1, 1) | 18
+Accuracy: 5.7
+testing accuracy 9 | (2, 2) | (2, 2) | (1, 1) | 25
+Accuracy: 6.3
+testing accuracy 9 | (2, 2) | (2, 2) | (2, 2) | 4
+Accuracy: 8.5
+testing accuracy 9 | (2, 2) | (2, 2) | (2, 2) | 7
+Accuracy: 9.0
+testing accuracy 9 | (2, 2) | (2, 2) | (2, 2) | 10
+Accuracy: 9.0
+testing accuracy 9 | (2, 2) | (2, 2) | (2, 2) | 14
+Accuracy: 9.5
+testing accuracy 9 | (2, 2) | (2, 2) | (2, 2) | 18
+Accuracy: 10.0
+testing accuracy 9 | (2, 2) | (2, 2) | (2, 2) | 25
+Accuracy: 10.1
+testing accuracy 9 | (4, 4) | (1, 1) | (1, 1) | 4
+Accuracy: 7.0
+testing accuracy 9 | (4, 4) | (1, 1) | (1, 1) | 7
+Accuracy: 7.1
+testing accuracy 9 | (4, 4) | (1, 1) | (1, 1) | 10
+Accuracy: 8.0
+testing accuracy 9 | (4, 4) | (1, 1) | (1, 1) | 14
+Accuracy: 7.8
+testing accuracy 9 | (4, 4) | (1, 1) | (1, 1) | 18
+Accuracy: 7.6
+testing accuracy 9 | (4, 4) | (1, 1) | (1, 1) | 25
+Accuracy: 7.5
+testing accuracy 9 | (4, 4) | (1, 1) | (2, 2) | 4
+Accuracy: 12.3
+testing accuracy 9 | (4, 4) | (1, 1) | (2, 2) | 7
+Accuracy: 12.7
+testing accuracy 9 | (4, 4) | (1, 1) | (2, 2) | 10
+Accuracy: 12.5
+testing accuracy 9 | (4, 4) | (1, 1) | (2, 2) | 14
+Accuracy: 12.7
+testing accuracy 9 | (4, 4) | (1, 1) | (2, 2) | 18
+Accuracy: 12.2
+testing accuracy 9 | (4, 4) | (1, 1) | (2, 2) | 25
+Accuracy: 12.5
+testing accuracy 9 | (4, 4) | (1, 1) | (4, 4) | 4
+Accuracy: 9.3
+testing accuracy 9 | (4, 4) | (1, 1) | (4, 4) | 7
+Accuracy: 9.6
+testing accuracy 9 | (4, 4) | (1, 1) | (4, 4) | 10
+Accuracy: 9.5
+testing accuracy 9 | (4, 4) | (1, 1) | (4, 4) | 14
+Accuracy: 8.5
+testing accuracy 9 | (4, 4) | (1, 1) | (4, 4) | 18
+Accuracy: 8.4
+testing accuracy 9 | (4, 4) | (1, 1) | (4, 4) | 25
+Accuracy: 8.8
+testing accuracy 9 | (4, 4) | (2, 2) | (1, 1) | 4
+Accuracy: 6.6
+testing accuracy 9 | (4, 4) | (2, 2) | (1, 1) | 7
+Accuracy: 6.3
+testing accuracy 9 | (4, 4) | (2, 2) | (1, 1) | 10
+Accuracy: 6.9
+testing accuracy 9 | (4, 4) | (2, 2) | (1, 1) | 14
+Accuracy: 7.9
+testing accuracy 9 | (4, 4) | (2, 2) | (1, 1) | 18
+Accuracy: 7.8
+testing accuracy 9 | (4, 4) | (2, 2) | (1, 1) | 25
+Accuracy: 7.6
+testing accuracy 9 | (4, 4) | (2, 2) | (2, 2) | 4
+Accuracy: 11.2
+testing accuracy 9 | (4, 4) | (2, 2) | (2, 2) | 7
+Accuracy: 11.5
+testing accuracy 9 | (4, 4) | (2, 2) | (2, 2) | 10
+Accuracy: 11.7
+testing accuracy 9 | (4, 4) | (2, 2) | (2, 2) | 14
+Accuracy: 12.9
+testing accuracy 9 | (4, 4) | (2, 2) | (2, 2) | 18
+Accuracy: 12.6
+testing accuracy 9 | (4, 4) | (2, 2) | (2, 2) | 25
+Accuracy: 11.9
+testing accuracy 9 | (4, 4) | (2, 2) | (4, 4) | 4
+Accuracy: 9.2
+testing accuracy 9 | (4, 4) | (2, 2) | (4, 4) | 7
+Accuracy: 9.7
+testing accuracy 9 | (4, 4) | (2, 2) | (4, 4) | 10
+Accuracy: 9.0
+testing accuracy 9 | (4, 4) | (2, 2) | (4, 4) | 14
+Accuracy: 9.0
+testing accuracy 9 | (4, 4) | (2, 2) | (4, 4) | 18
+Accuracy: 8.9
+testing accuracy 9 | (4, 4) | (2, 2) | (4, 4) | 25
+Accuracy: 8.5
+testing accuracy 9 | (4, 4) | (4, 4) | (1, 1) | 4
+Accuracy: 6.2
+testing accuracy 9 | (4, 4) | (4, 4) | (1, 1) | 7
+Accuracy: 6.4
+testing accuracy 9 | (4, 4) | (4, 4) | (1, 1) | 10
+Accuracy: 6.5
+testing accuracy 9 | (4, 4) | (4, 4) | (1, 1) | 14
+Accuracy: 6.6
+testing accuracy 9 | (4, 4) | (4, 4) | (1, 1) | 18
+Accuracy: 6.7
+testing accuracy 9 | (4, 4) | (4, 4) | (1, 1) | 25
+Accuracy: 6.9
+testing accuracy 9 | (4, 4) | (4, 4) | (2, 2) | 4
+Accuracy: 9.1
+testing accuracy 9 | (4, 4) | (4, 4) | (2, 2) | 7
+Accuracy: 10.2
+testing accuracy 9 | (4, 4) | (4, 4) | (2, 2) | 10
+Accuracy: 11.0
+testing accuracy 9 | (4, 4) | (4, 4) | (2, 2) | 14
+Accuracy: 10.7
+testing accuracy 9 | (4, 4) | (4, 4) | (2, 2) | 18
+Accuracy: 10.0
+testing accuracy 9 | (4, 4) | (4, 4) | (2, 2) | 25
+Accuracy: 10.1
+testing accuracy 9 | (4, 4) | (4, 4) | (4, 4) | 4
+Accuracy: 7.4
+testing accuracy 9 | (4, 4) | (4, 4) | (4, 4) | 7
+Accuracy: 7.4
+testing accuracy 9 | (4, 4) | (4, 4) | (4, 4) | 10
+Accuracy: 7.8
+testing accuracy 9 | (4, 4) | (4, 4) | (4, 4) | 14
+Accuracy: 7.1
+testing accuracy 9 | (4, 4) | (4, 4) | (4, 4) | 18
+Accuracy: 7.7
+testing accuracy 9 | (4, 4) | (4, 4) | (4, 4) | 25
+Accuracy: 7.8
+testing accuracy 9 | (8, 8) | (1, 1) | (1, 1) | 4
+Accuracy: 10.3
+testing accuracy 9 | (8, 8) | (1, 1) | (1, 1) | 7
+Accuracy: 11.0
+testing accuracy 9 | (8, 8) | (1, 1) | (1, 1) | 10
+Accuracy: 10.6
+testing accuracy 9 | (8, 8) | (1, 1) | (1, 1) | 14
+Accuracy: 10.0
+testing accuracy 9 | (8, 8) | (1, 1) | (1, 1) | 18
+Accuracy: 9.7
+testing accuracy 9 | (8, 8) | (1, 1) | (1, 1) | 25
+Accuracy: 9.6
+testing accuracy 9 | (8, 8) | (1, 1) | (2, 2) | 4
+Accuracy: 12.5
+testing accuracy 9 | (8, 8) | (1, 1) | (2, 2) | 7
+Accuracy: 12.6
+testing accuracy 9 | (8, 8) | (1, 1) | (2, 2) | 10
+Accuracy: 12.4
+testing accuracy 9 | (8, 8) | (1, 1) | (2, 2) | 14
+Accuracy: 12.8
+testing accuracy 9 | (8, 8) | (1, 1) | (2, 2) | 18
+Accuracy: 12.8
+testing accuracy 9 | (8, 8) | (1, 1) | (2, 2) | 25
+Accuracy: 12.6
+testing accuracy 9 | (8, 8) | (1, 1) | (4, 4) | 4
+Accuracy: 10.7
+testing accuracy 9 | (8, 8) | (1, 1) | (4, 4) | 7
+Accuracy: 10.6
+testing accuracy 9 | (8, 8) | (1, 1) | (4, 4) | 10
+Accuracy: 11.3
+testing accuracy 9 | (8, 8) | (1, 1) | (4, 4) | 14
+Accuracy: 11.5
+testing accuracy 9 | (8, 8) | (1, 1) | (4, 4) | 18
+Accuracy: 11.3
+testing accuracy 9 | (8, 8) | (1, 1) | (4, 4) | 25
+Accuracy: 11.2
+testing accuracy 9 | (8, 8) | (1, 1) | (8, 8) | 4
+Accuracy: 8.6
+testing accuracy 9 | (8, 8) | (1, 1) | (8, 8) | 7
+Accuracy: 8.5
+testing accuracy 9 | (8, 8) | (1, 1) | (8, 8) | 10
+Accuracy: 8.3
+testing accuracy 9 | (8, 8) | (1, 1) | (8, 8) | 14
+Accuracy: 8.1
+testing accuracy 9 | (8, 8) | (1, 1) | (8, 8) | 18
+Accuracy: 7.7
+testing accuracy 9 | (8, 8) | (1, 1) | (8, 8) | 25
+Accuracy: 8.3
+testing accuracy 9 | (8, 8) | (2, 2) | (1, 1) | 4
+Accuracy: 10.1
+testing accuracy 9 | (8, 8) | (2, 2) | (1, 1) | 7
+Accuracy: 10.4
+testing accuracy 9 | (8, 8) | (2, 2) | (1, 1) | 10
+Accuracy: 10.0
+testing accuracy 9 | (8, 8) | (2, 2) | (1, 1) | 14
+Accuracy: 10.1
+testing accuracy 9 | (8, 8) | (2, 2) | (1, 1) | 18
+Accuracy: 10.0
+testing accuracy 9 | (8, 8) | (2, 2) | (1, 1) | 25
+Accuracy: 9.2
+testing accuracy 9 | (8, 8) | (2, 2) | (2, 2) | 4
+Accuracy: 13.2
+testing accuracy 9 | (8, 8) | (2, 2) | (2, 2) | 7
+Accuracy: 13.3
+testing accuracy 9 | (8, 8) | (2, 2) | (2, 2) | 10
+Accuracy: 12.8
+testing accuracy 9 | (8, 8) | (2, 2) | (2, 2) | 14
+Accuracy: 12.7
+testing accuracy 9 | (8, 8) | (2, 2) | (2, 2) | 18
+Accuracy: 13.2
+testing accuracy 9 | (8, 8) | (2, 2) | (2, 2) | 25
+Accuracy: 13.5
+testing accuracy 9 | (8, 8) | (2, 2) | (4, 4) | 4
+Accuracy: 11.1
+testing accuracy 9 | (8, 8) | (2, 2) | (4, 4) | 7
+Accuracy: 11.4
+testing accuracy 9 | (8, 8) | (2, 2) | (4, 4) | 10
+Accuracy: 11.4
+testing accuracy 9 | (8, 8) | (2, 2) | (4, 4) | 14
+Accuracy: 12.0
+testing accuracy 9 | (8, 8) | (2, 2) | (4, 4) | 18
+Accuracy: 12.1
+testing accuracy 9 | (8, 8) | (2, 2) | (4, 4) | 25
+Accuracy: 11.4
+testing accuracy 9 | (8, 8) | (2, 2) | (8, 8) | 4
+Accuracy: 7.8
+testing accuracy 9 | (8, 8) | (2, 2) | (8, 8) | 7
+Accuracy: 8.0
+testing accuracy 9 | (8, 8) | (2, 2) | (8, 8) | 10
+Accuracy: 8.2
+testing accuracy 9 | (8, 8) | (2, 2) | (8, 8) | 14
+Accuracy: 8.1
+testing accuracy 9 | (8, 8) | (2, 2) | (8, 8) | 18
+Accuracy: 7.8
+testing accuracy 9 | (8, 8) | (2, 2) | (8, 8) | 25
+Accuracy: 8.0
+testing accuracy 9 | (8, 8) | (4, 4) | (1, 1) | 4
+Accuracy: 9.8
+testing accuracy 9 | (8, 8) | (4, 4) | (1, 1) | 7
+Accuracy: 9.4
+testing accuracy 9 | (8, 8) | (4, 4) | (1, 1) | 10
+Accuracy: 9.4
+testing accuracy 9 | (8, 8) | (4, 4) | (1, 1) | 14
+Accuracy: 9.5
+testing accuracy 9 | (8, 8) | (4, 4) | (1, 1) | 18
+Accuracy: 9.2
+testing accuracy 9 | (8, 8) | (4, 4) | (1, 1) | 25
+Accuracy: 8.5
+testing accuracy 9 | (8, 8) | (4, 4) | (2, 2) | 4
+Accuracy: 13.1
+testing accuracy 9 | (8, 8) | (4, 4) | (2, 2) | 7
+Accuracy: 13.6
+testing accuracy 9 | (8, 8) | (4, 4) | (2, 2) | 10
+Accuracy: 14.0
+testing accuracy 9 | (8, 8) | (4, 4) | (2, 2) | 14
+Accuracy: 13.9
+testing accuracy 9 | (8, 8) | (4, 4) | (2, 2) | 18
+Accuracy: 14.1
+testing accuracy 9 | (8, 8) | (4, 4) | (2, 2) | 25
+Accuracy: 13.4
+testing accuracy 9 | (8, 8) | (4, 4) | (4, 4) | 4
+Accuracy: 10.4
+testing accuracy 9 | (8, 8) | (4, 4) | (4, 4) | 7
+Accuracy: 11.3
+testing accuracy 9 | (8, 8) | (4, 4) | (4, 4) | 10
+Accuracy: 11.0
+testing accuracy 9 | (8, 8) | (4, 4) | (4, 4) | 14
+Accuracy: 11.2
+testing accuracy 9 | (8, 8) | (4, 4) | (4, 4) | 18
+Accuracy: 10.9
+testing accuracy 9 | (8, 8) | (4, 4) | (4, 4) | 25
+Accuracy: 10.6
+testing accuracy 9 | (8, 8) | (4, 4) | (8, 8) | 4
+Accuracy: 8.0
+testing accuracy 9 | (8, 8) | (4, 4) | (8, 8) | 7
+Accuracy: 8.0
+testing accuracy 9 | (8, 8) | (4, 4) | (8, 8) | 10
+Accuracy: 8.3
+testing accuracy 9 | (8, 8) | (4, 4) | (8, 8) | 14
+Accuracy: 8.6
+testing accuracy 9 | (8, 8) | (4, 4) | (8, 8) | 18
+Accuracy: 8.5
+testing accuracy 9 | (8, 8) | (4, 4) | (8, 8) | 25
+Accuracy: 7.9
+testing accuracy 9 | (8, 8) | (8, 8) | (1, 1) | 4
+Accuracy: 8.0
+testing accuracy 9 | (8, 8) | (8, 8) | (1, 1) | 7
+Accuracy: 8.0
+testing accuracy 9 | (8, 8) | (8, 8) | (1, 1) | 10
+Accuracy: 8.1
+testing accuracy 9 | (8, 8) | (8, 8) | (1, 1) | 14
+Accuracy: 7.3
+testing accuracy 9 | (8, 8) | (8, 8) | (1, 1) | 18
+Accuracy: 7.3
+testing accuracy 9 | (8, 8) | (8, 8) | (1, 1) | 25
+Accuracy: 7.3
+testing accuracy 9 | (8, 8) | (8, 8) | (2, 2) | 4
+Accuracy: 10.1
+testing accuracy 9 | (8, 8) | (8, 8) | (2, 2) | 7
+Accuracy: 10.4
+testing accuracy 9 | (8, 8) | (8, 8) | (2, 2) | 10
+Accuracy: 10.7
+testing accuracy 9 | (8, 8) | (8, 8) | (2, 2) | 14
+Accuracy: 11.6
+testing accuracy 9 | (8, 8) | (8, 8) | (2, 2) | 18
+Accuracy: 11.0
+testing accuracy 9 | (8, 8) | (8, 8) | (2, 2) | 25
+Accuracy: 10.6
+testing accuracy 9 | (8, 8) | (8, 8) | (4, 4) | 4
+Accuracy: 9.0
+testing accuracy 9 | (8, 8) | (8, 8) | (4, 4) | 7
+Accuracy: 8.9
+testing accuracy 9 | (8, 8) | (8, 8) | (4, 4) | 10
+Accuracy: 9.4
+testing accuracy 9 | (8, 8) | (8, 8) | (4, 4) | 14
+Accuracy: 10.2
+testing accuracy 9 | (8, 8) | (8, 8) | (4, 4) | 18
+Accuracy: 10.2
+testing accuracy 9 | (8, 8) | (8, 8) | (4, 4) | 25
+Accuracy: 10.0
+testing accuracy 9 | (8, 8) | (8, 8) | (8, 8) | 4
+Accuracy: 5.6
+testing accuracy 9 | (8, 8) | (8, 8) | (8, 8) | 7
+Accuracy: 6.3
+testing accuracy 9 | (8, 8) | (8, 8) | (8, 8) | 10
+Accuracy: 6.6
+testing accuracy 9 | (8, 8) | (8, 8) | (8, 8) | 14
+Accuracy: 5.8
+testing accuracy 9 | (8, 8) | (8, 8) | (8, 8) | 18
+Accuracy: 6.0
+testing accuracy 9 | (8, 8) | (8, 8) | (8, 8) | 25
+Accuracy: 6.4
+testing accuracy 11 | (2, 2) | (1, 1) | (1, 1) | 4
+Accuracy: 3.7
+testing accuracy 11 | (2, 2) | (1, 1) | (1, 1) | 7
+Accuracy: 4.1
+testing accuracy 11 | (2, 2) | (1, 1) | (1, 1) | 10
+Accuracy: 4.1
+testing accuracy 11 | (2, 2) | (1, 1) | (1, 1) | 14
+Accuracy: 4.7
+testing accuracy 11 | (2, 2) | (1, 1) | (1, 1) | 18
+Accuracy: 5.3
+testing accuracy 11 | (2, 2) | (1, 1) | (1, 1) | 25
+Accuracy: 5.2
+testing accuracy 11 | (2, 2) | (1, 1) | (2, 2) | 4
+Accuracy: 8.3
+testing accuracy 11 | (2, 2) | (1, 1) | (2, 2) | 7
+Accuracy: 9.5
+testing accuracy 11 | (2, 2) | (1, 1) | (2, 2) | 10
+Accuracy: 10.0
+testing accuracy 11 | (2, 2) | (1, 1) | (2, 2) | 14
+Accuracy: 9.3
+testing accuracy 11 | (2, 2) | (1, 1) | (2, 2) | 18
+Accuracy: 9.6
+testing accuracy 11 | (2, 2) | (1, 1) | (2, 2) | 25
+Accuracy: 9.9
+testing accuracy 11 | (2, 2) | (2, 2) | (1, 1) | 4
+Accuracy: 3.5
+testing accuracy 11 | (2, 2) | (2, 2) | (1, 1) | 7
+Accuracy: 4.2
+testing accuracy 11 | (2, 2) | (2, 2) | (1, 1) | 10
+Accuracy: 4.4
+testing accuracy 11 | (2, 2) | (2, 2) | (1, 1) | 14
+Accuracy: 4.7
+testing accuracy 11 | (2, 2) | (2, 2) | (1, 1) | 18
+Accuracy: 4.9
+testing accuracy 11 | (2, 2) | (2, 2) | (1, 1) | 25
+Accuracy: 5.2
+testing accuracy 11 | (2, 2) | (2, 2) | (2, 2) | 4
+Accuracy: 7.8
+testing accuracy 11 | (2, 2) | (2, 2) | (2, 2) | 7
+Accuracy: 8.2
+testing accuracy 11 | (2, 2) | (2, 2) | (2, 2) | 10
+Accuracy: 8.4
+testing accuracy 11 | (2, 2) | (2, 2) | (2, 2) | 14
+Accuracy: 8.9
+testing accuracy 11 | (2, 2) | (2, 2) | (2, 2) | 18
+Accuracy: 10.2
+testing accuracy 11 | (2, 2) | (2, 2) | (2, 2) | 25
+Accuracy: 9.8
+testing accuracy 11 | (4, 4) | (1, 1) | (1, 1) | 4
+Accuracy: 6.1
+testing accuracy 11 | (4, 4) | (1, 1) | (1, 1) | 7
+Accuracy: 6.5
+testing accuracy 11 | (4, 4) | (1, 1) | (1, 1) | 10
+Accuracy: 6.4
+testing accuracy 11 | (4, 4) | (1, 1) | (1, 1) | 14
+Accuracy: 7.3
+testing accuracy 11 | (4, 4) | (1, 1) | (1, 1) | 18
+Accuracy: 7.4
+testing accuracy 11 | (4, 4) | (1, 1) | (1, 1) | 25
+Accuracy: 7.3
+testing accuracy 11 | (4, 4) | (1, 1) | (2, 2) | 4
+Accuracy: 11.4
+testing accuracy 11 | (4, 4) | (1, 1) | (2, 2) | 7
+Accuracy: 12.2
+testing accuracy 11 | (4, 4) | (1, 1) | (2, 2) | 10
+Accuracy: 12.7
+testing accuracy 11 | (4, 4) | (1, 1) | (2, 2) | 14
+Accuracy: 11.9
+testing accuracy 11 | (4, 4) | (1, 1) | (2, 2) | 18
+Accuracy: 12.9
+testing accuracy 11 | (4, 4) | (1, 1) | (2, 2) | 25
+Accuracy: 13.5
+testing accuracy 11 | (4, 4) | (1, 1) | (4, 4) | 4
+Accuracy: 9.6
+testing accuracy 11 | (4, 4) | (1, 1) | (4, 4) | 7
+Accuracy: 9.9
+testing accuracy 11 | (4, 4) | (1, 1) | (4, 4) | 10
+Accuracy: 9.8
+testing accuracy 11 | (4, 4) | (1, 1) | (4, 4) | 14
+Accuracy: 9.9
+testing accuracy 11 | (4, 4) | (1, 1) | (4, 4) | 18
+Accuracy: 10.1
+testing accuracy 11 | (4, 4) | (1, 1) | (4, 4) | 25
+Accuracy: 9.9
+testing accuracy 11 | (4, 4) | (2, 2) | (1, 1) | 4
+Accuracy: 5.5
+testing accuracy 11 | (4, 4) | (2, 2) | (1, 1) | 7
+Accuracy: 6.1
+testing accuracy 11 | (4, 4) | (2, 2) | (1, 1) | 10
+Accuracy: 6.2
+testing accuracy 11 | (4, 4) | (2, 2) | (1, 1) | 14
+Accuracy: 7.0
+testing accuracy 11 | (4, 4) | (2, 2) | (1, 1) | 18
+Accuracy: 7.2
+testing accuracy 11 | (4, 4) | (2, 2) | (1, 1) | 25
+Accuracy: 7.4
+testing accuracy 11 | (4, 4) | (2, 2) | (2, 2) | 4
+Accuracy: 12.0
+testing accuracy 11 | (4, 4) | (2, 2) | (2, 2) | 7
+Accuracy: 12.4
+testing accuracy 11 | (4, 4) | (2, 2) | (2, 2) | 10
+Accuracy: 12.4
+testing accuracy 11 | (4, 4) | (2, 2) | (2, 2) | 14
+Accuracy: 12.5
+testing accuracy 11 | (4, 4) | (2, 2) | (2, 2) | 18
+Accuracy: 12.2
+testing accuracy 11 | (4, 4) | (2, 2) | (2, 2) | 25
+Accuracy: 13.4
+testing accuracy 11 | (4, 4) | (2, 2) | (4, 4) | 4
+Accuracy: 9.5
+testing accuracy 11 | (4, 4) | (2, 2) | (4, 4) | 7
+Accuracy: 9.8
+testing accuracy 11 | (4, 4) | (2, 2) | (4, 4) | 10
+Accuracy: 9.8
+testing accuracy 11 | (4, 4) | (2, 2) | (4, 4) | 14
+Accuracy: 9.8
+testing accuracy 11 | (4, 4) | (2, 2) | (4, 4) | 18
+Accuracy: 9.6
+testing accuracy 11 | (4, 4) | (2, 2) | (4, 4) | 25
+Accuracy: 9.5
+testing accuracy 11 | (4, 4) | (4, 4) | (1, 1) | 4
+Accuracy: 5.3
+testing accuracy 11 | (4, 4) | (4, 4) | (1, 1) | 7
+Accuracy: 5.9
+testing accuracy 11 | (4, 4) | (4, 4) | (1, 1) | 10
+Accuracy: 5.9
+testing accuracy 11 | (4, 4) | (4, 4) | (1, 1) | 14
+Accuracy: 6.4
+testing accuracy 11 | (4, 4) | (4, 4) | (1, 1) | 18
+Accuracy: 6.0
+testing accuracy 11 | (4, 4) | (4, 4) | (1, 1) | 25
+Accuracy: 7.1
+testing accuracy 11 | (4, 4) | (4, 4) | (2, 2) | 4
+Accuracy: 9.0
+testing accuracy 11 | (4, 4) | (4, 4) | (2, 2) | 7
+Accuracy: 10.3
+testing accuracy 11 | (4, 4) | (4, 4) | (2, 2) | 10
+Accuracy: 10.1
+testing accuracy 11 | (4, 4) | (4, 4) | (2, 2) | 14
+Accuracy: 10.3
+testing accuracy 11 | (4, 4) | (4, 4) | (2, 2) | 18
+Accuracy: 10.9
+testing accuracy 11 | (4, 4) | (4, 4) | (2, 2) | 25
+Accuracy: 10.9
+testing accuracy 11 | (4, 4) | (4, 4) | (4, 4) | 4
+Accuracy: 8.5
+testing accuracy 11 | (4, 4) | (4, 4) | (4, 4) | 7
+Accuracy: 7.9
+testing accuracy 11 | (4, 4) | (4, 4) | (4, 4) | 10
+Accuracy: 8.6
+testing accuracy 11 | (4, 4) | (4, 4) | (4, 4) | 14
+Accuracy: 8.6
+testing accuracy 11 | (4, 4) | (4, 4) | (4, 4) | 18
+Accuracy: 9.1
+testing accuracy 11 | (4, 4) | (4, 4) | (4, 4) | 25
+Accuracy: 9.4
+testing accuracy 11 | (8, 8) | (1, 1) | (1, 1) | 4
+Accuracy: 10.4
+testing accuracy 11 | (8, 8) | (1, 1) | (1, 1) | 7
+Accuracy: 10.5
+testing accuracy 11 | (8, 8) | (1, 1) | (1, 1) | 10
+Accuracy: 9.9
+testing accuracy 11 | (8, 8) | (1, 1) | (1, 1) | 14
+Accuracy: 9.6
+testing accuracy 11 | (8, 8) | (1, 1) | (1, 1) | 18
+Accuracy: 9.5
+testing accuracy 11 | (8, 8) | (1, 1) | (1, 1) | 25
+Accuracy: 9.0
+testing accuracy 11 | (8, 8) | (1, 1) | (2, 2) | 4
+Accuracy: 12.0
+testing accuracy 11 | (8, 8) | (1, 1) | (2, 2) | 7
+Accuracy: 12.6
+testing accuracy 11 | (8, 8) | (1, 1) | (2, 2) | 10
+Accuracy: 12.3
+testing accuracy 11 | (8, 8) | (1, 1) | (2, 2) | 14
+Accuracy: 12.5
+testing accuracy 11 | (8, 8) | (1, 1) | (2, 2) | 18
+Accuracy: 12.8
+testing accuracy 11 | (8, 8) | (1, 1) | (2, 2) | 25
+Accuracy: 13.3
+testing accuracy 11 | (8, 8) | (1, 1) | (4, 4) | 4
+Accuracy: 10.4
+testing accuracy 11 | (8, 8) | (1, 1) | (4, 4) | 7
+Accuracy: 11.2
+testing accuracy 11 | (8, 8) | (1, 1) | (4, 4) | 10
+Accuracy: 11.8
+testing accuracy 11 | (8, 8) | (1, 1) | (4, 4) | 14
+Accuracy: 12.4
+testing accuracy 11 | (8, 8) | (1, 1) | (4, 4) | 18
+Accuracy: 12.3
+testing accuracy 11 | (8, 8) | (1, 1) | (4, 4) | 25
+Accuracy: 11.5
+testing accuracy 11 | (8, 8) | (1, 1) | (8, 8) | 4
+Accuracy: 8.9
+testing accuracy 11 | (8, 8) | (1, 1) | (8, 8) | 7
+Accuracy: 8.7
+testing accuracy 11 | (8, 8) | (1, 1) | (8, 8) | 10
+Accuracy: 8.4
+testing accuracy 11 | (8, 8) | (1, 1) | (8, 8) | 14
+Accuracy: 8.7
+testing accuracy 11 | (8, 8) | (1, 1) | (8, 8) | 18
+Accuracy: 8.3
+testing accuracy 11 | (8, 8) | (1, 1) | (8, 8) | 25
+Accuracy: 8.1
+testing accuracy 11 | (8, 8) | (2, 2) | (1, 1) | 4
+Accuracy: 10.6
+testing accuracy 11 | (8, 8) | (2, 2) | (1, 1) | 7
+Accuracy: 10.2
+testing accuracy 11 | (8, 8) | (2, 2) | (1, 1) | 10
+Accuracy: 9.4
+testing accuracy 11 | (8, 8) | (2, 2) | (1, 1) | 14
+Accuracy: 9.7
+testing accuracy 11 | (8, 8) | (2, 2) | (1, 1) | 18
+Accuracy: 9.3
+testing accuracy 11 | (8, 8) | (2, 2) | (1, 1) | 25
+Accuracy: 9.2
+testing accuracy 11 | (8, 8) | (2, 2) | (2, 2) | 4
+Accuracy: 12.8
+testing accuracy 11 | (8, 8) | (2, 2) | (2, 2) | 7
+Accuracy: 13.4
+testing accuracy 11 | (8, 8) | (2, 2) | (2, 2) | 10
+Accuracy: 12.8
+testing accuracy 11 | (8, 8) | (2, 2) | (2, 2) | 14
+Accuracy: 13.2
+testing accuracy 11 | (8, 8) | (2, 2) | (2, 2) | 18
+Accuracy: 13.5
+testing accuracy 11 | (8, 8) | (2, 2) | (2, 2) | 25
+Accuracy: 13.9
+testing accuracy 11 | (8, 8) | (2, 2) | (4, 4) | 4
+Accuracy: 11.2
+testing accuracy 11 | (8, 8) | (2, 2) | (4, 4) | 7
+Accuracy: 11.5
+testing accuracy 11 | (8, 8) | (2, 2) | (4, 4) | 10
+Accuracy: 12.3
+testing accuracy 11 | (8, 8) | (2, 2) | (4, 4) | 14
+Accuracy: 12.8
+testing accuracy 11 | (8, 8) | (2, 2) | (4, 4) | 18
+Accuracy: 13.2
+testing accuracy 11 | (8, 8) | (2, 2) | (4, 4) | 25
+Accuracy: 11.3
+testing accuracy 11 | (8, 8) | (2, 2) | (8, 8) | 4
+Accuracy: 8.1
+testing accuracy 11 | (8, 8) | (2, 2) | (8, 8) | 7
+Accuracy: 8.4
+testing accuracy 11 | (8, 8) | (2, 2) | (8, 8) | 10
+Accuracy: 8.3
+testing accuracy 11 | (8, 8) | (2, 2) | (8, 8) | 14
+Accuracy: 8.3
+testing accuracy 11 | (8, 8) | (2, 2) | (8, 8) | 18
+Accuracy: 7.6
+testing accuracy 11 | (8, 8) | (2, 2) | (8, 8) | 25
+Accuracy: 8.1
+testing accuracy 11 | (8, 8) | (4, 4) | (1, 1) | 4
+Accuracy: 10.2
+testing accuracy 11 | (8, 8) | (4, 4) | (1, 1) | 7
+Accuracy: 9.4
+testing accuracy 11 | (8, 8) | (4, 4) | (1, 1) | 10
+Accuracy: 9.1
+testing accuracy 11 | (8, 8) | (4, 4) | (1, 1) | 14
+Accuracy: 9.7
+testing accuracy 11 | (8, 8) | (4, 4) | (1, 1) | 18
+Accuracy: 9.1
+testing accuracy 11 | (8, 8) | (4, 4) | (1, 1) | 25
+Accuracy: 9.1
+testing accuracy 11 | (8, 8) | (4, 4) | (2, 2) | 4
+Accuracy: 12.0
+testing accuracy 11 | (8, 8) | (4, 4) | (2, 2) | 7
+Accuracy: 12.7
+testing accuracy 11 | (8, 8) | (4, 4) | (2, 2) | 10
+Accuracy: 14.2
+testing accuracy 11 | (8, 8) | (4, 4) | (2, 2) | 14
+Accuracy: 14.1
+testing accuracy 11 | (8, 8) | (4, 4) | (2, 2) | 18
+Accuracy: 14.5
+testing accuracy 11 | (8, 8) | (4, 4) | (2, 2) | 25
+Accuracy: 14.3
+testing accuracy 11 | (8, 8) | (4, 4) | (4, 4) | 4
+Accuracy: 11.0
+testing accuracy 11 | (8, 8) | (4, 4) | (4, 4) | 7
+Accuracy: 12.1
+testing accuracy 11 | (8, 8) | (4, 4) | (4, 4) | 10
+Accuracy: 11.8
+testing accuracy 11 | (8, 8) | (4, 4) | (4, 4) | 14
+Accuracy: 10.9
+testing accuracy 11 | (8, 8) | (4, 4) | (4, 4) | 18
+Accuracy: 11.3
+testing accuracy 11 | (8, 8) | (4, 4) | (4, 4) | 25
+Accuracy: 12.0
+testing accuracy 11 | (8, 8) | (4, 4) | (8, 8) | 4
+Accuracy: 7.3
+testing accuracy 11 | (8, 8) | (4, 4) | (8, 8) | 7
+Accuracy: 8.0
+testing accuracy 11 | (8, 8) | (4, 4) | (8, 8) | 10
+Accuracy: 7.8
+testing accuracy 11 | (8, 8) | (4, 4) | (8, 8) | 14
+Accuracy: 9.2
+testing accuracy 11 | (8, 8) | (4, 4) | (8, 8) | 18
+Accuracy: 9.5
+testing accuracy 11 | (8, 8) | (4, 4) | (8, 8) | 25
+Accuracy: 8.3
+testing accuracy 11 | (8, 8) | (8, 8) | (1, 1) | 4
+Accuracy: 7.8
+testing accuracy 11 | (8, 8) | (8, 8) | (1, 1) | 7
+Accuracy: 7.8
+testing accuracy 11 | (8, 8) | (8, 8) | (1, 1) | 10
+Accuracy: 8.0
+testing accuracy 11 | (8, 8) | (8, 8) | (1, 1) | 14
+Accuracy: 7.5
+testing accuracy 11 | (8, 8) | (8, 8) | (1, 1) | 18
+Accuracy: 7.5
+testing accuracy 11 | (8, 8) | (8, 8) | (1, 1) | 25
+Accuracy: 7.4
+testing accuracy 11 | (8, 8) | (8, 8) | (2, 2) | 4
+Accuracy: 9.9
+testing accuracy 11 | (8, 8) | (8, 8) | (2, 2) | 7
+Accuracy: 10.2
+testing accuracy 11 | (8, 8) | (8, 8) | (2, 2) | 10
+Accuracy: 11.3
+testing accuracy 11 | (8, 8) | (8, 8) | (2, 2) | 14
+Accuracy: 11.5
+testing accuracy 11 | (8, 8) | (8, 8) | (2, 2) | 18
+Accuracy: 11.7
+testing accuracy 11 | (8, 8) | (8, 8) | (2, 2) | 25
+Accuracy: 11.9
+testing accuracy 11 | (8, 8) | (8, 8) | (4, 4) | 4
+Accuracy: 8.8
+testing accuracy 11 | (8, 8) | (8, 8) | (4, 4) | 7
+Accuracy: 9.9
+testing accuracy 11 | (8, 8) | (8, 8) | (4, 4) | 10
+Accuracy: 9.4
+testing accuracy 11 | (8, 8) | (8, 8) | (4, 4) | 14
+Accuracy: 10.4
+testing accuracy 11 | (8, 8) | (8, 8) | (4, 4) | 18
+Accuracy: 11.4
+testing accuracy 11 | (8, 8) | (8, 8) | (4, 4) | 25
+Accuracy: 10.0
+testing accuracy 11 | (8, 8) | (8, 8) | (8, 8) | 4
+Accuracy: 6.3
+testing accuracy 11 | (8, 8) | (8, 8) | (8, 8) | 7
+Accuracy: 6.3
+testing accuracy 11 | (8, 8) | (8, 8) | (8, 8) | 10
+Accuracy: 6.5
+testing accuracy 11 | (8, 8) | (8, 8) | (8, 8) | 14
+Accuracy: 6.7
+testing accuracy 11 | (8, 8) | (8, 8) | (8, 8) | 18
+Accuracy: 6.6
+testing accuracy 11 | (8, 8) | (8, 8) | (8, 8) | 25
+Accuracy: 6.8
+testing accuracy 13 | (2, 2) | (1, 1) | (1, 1) | 4
+Accuracy: 2.9
+testing accuracy 13 | (2, 2) | (1, 1) | (1, 1) | 7
+Accuracy: 3.3
+testing accuracy 13 | (2, 2) | (1, 1) | (1, 1) | 10
+Accuracy: 3.5
+testing accuracy 13 | (2, 2) | (1, 1) | (1, 1) | 14
+Accuracy: 3.6
+testing accuracy 13 | (2, 2) | (1, 1) | (1, 1) | 18
+Accuracy: 4.1
+testing accuracy 13 | (2, 2) | (1, 1) | (1, 1) | 25
+Accuracy: 5.0
+testing accuracy 13 | (2, 2) | (1, 1) | (2, 2) | 4
+Accuracy: 6.3
+testing accuracy 13 | (2, 2) | (1, 1) | (2, 2) | 7
+Accuracy: 7.9
+testing accuracy 13 | (2, 2) | (1, 1) | (2, 2) | 10
+Accuracy: 8.3
+testing accuracy 13 | (2, 2) | (1, 1) | (2, 2) | 14
+Accuracy: 7.8
+testing accuracy 13 | (2, 2) | (1, 1) | (2, 2) | 18
+Accuracy: 8.7
+testing accuracy 13 | (2, 2) | (1, 1) | (2, 2) | 25
+Accuracy: 8.9
+testing accuracy 13 | (2, 2) | (2, 2) | (1, 1) | 4
+Accuracy: 2.7
+testing accuracy 13 | (2, 2) | (2, 2) | (1, 1) | 7
+Accuracy: 3.5
+testing accuracy 13 | (2, 2) | (2, 2) | (1, 1) | 10
+Accuracy: 3.7
+testing accuracy 13 | (2, 2) | (2, 2) | (1, 1) | 14
+Accuracy: 3.9
+testing accuracy 13 | (2, 2) | (2, 2) | (1, 1) | 18
+Accuracy: 4.7
+testing accuracy 13 | (2, 2) | (2, 2) | (1, 1) | 25
+Accuracy: 4.8
+testing accuracy 13 | (2, 2) | (2, 2) | (2, 2) | 4
+Accuracy: 6.4
+testing accuracy 13 | (2, 2) | (2, 2) | (2, 2) | 7
+Accuracy: 7.3
+testing accuracy 13 | (2, 2) | (2, 2) | (2, 2) | 10
+Accuracy: 7.8
+testing accuracy 13 | (2, 2) | (2, 2) | (2, 2) | 14
+Accuracy: 8.9
+testing accuracy 13 | (2, 2) | (2, 2) | (2, 2) | 18
+Accuracy: 9.1
+testing accuracy 13 | (2, 2) | (2, 2) | (2, 2) | 25
+Accuracy: 9.2
+testing accuracy 13 | (4, 4) | (1, 1) | (1, 1) | 4
+Accuracy: 4.7
+testing accuracy 13 | (4, 4) | (1, 1) | (1, 1) | 7
+Accuracy: 5.6
+testing accuracy 13 | (4, 4) | (1, 1) | (1, 1) | 10
+Accuracy: 5.4
+testing accuracy 13 | (4, 4) | (1, 1) | (1, 1) | 14
+Accuracy: 6.2
+testing accuracy 13 | (4, 4) | (1, 1) | (1, 1) | 18
+Accuracy: 6.7
+testing accuracy 13 | (4, 4) | (1, 1) | (1, 1) | 25
+Accuracy: 6.2
+testing accuracy 13 | (4, 4) | (1, 1) | (2, 2) | 4
+Accuracy: 11.0
+testing accuracy 13 | (4, 4) | (1, 1) | (2, 2) | 7
+Accuracy: 12.4
+testing accuracy 13 | (4, 4) | (1, 1) | (2, 2) | 10
+Accuracy: 12.3
+testing accuracy 13 | (4, 4) | (1, 1) | (2, 2) | 14
+Accuracy: 12.8
+testing accuracy 13 | (4, 4) | (1, 1) | (2, 2) | 18
+Accuracy: 13.0
+testing accuracy 13 | (4, 4) | (1, 1) | (2, 2) | 25
+Accuracy: 12.9
+testing accuracy 13 | (4, 4) | (1, 1) | (4, 4) | 4
+Accuracy: 10.3
+testing accuracy 13 | (4, 4) | (1, 1) | (4, 4) | 7
+Accuracy: 11.0
+testing accuracy 13 | (4, 4) | (1, 1) | (4, 4) | 10
+Accuracy: 10.8
+testing accuracy 13 | (4, 4) | (1, 1) | (4, 4) | 14
+Accuracy: 10.0
+testing accuracy 13 | (4, 4) | (1, 1) | (4, 4) | 18
+Accuracy: 10.2
+testing accuracy 13 | (4, 4) | (1, 1) | (4, 4) | 25
+Accuracy: 11.1
+testing accuracy 13 | (4, 4) | (2, 2) | (1, 1) | 4
+Accuracy: 4.1
+testing accuracy 13 | (4, 4) | (2, 2) | (1, 1) | 7
+Accuracy: 5.1
+testing accuracy 13 | (4, 4) | (2, 2) | (1, 1) | 10
+Accuracy: 5.9
+testing accuracy 13 | (4, 4) | (2, 2) | (1, 1) | 14
+Accuracy: 6.0
+testing accuracy 13 | (4, 4) | (2, 2) | (1, 1) | 18
+Accuracy: 6.4
+testing accuracy 13 | (4, 4) | (2, 2) | (1, 1) | 25
+Accuracy: 6.5
+testing accuracy 13 | (4, 4) | (2, 2) | (2, 2) | 4
+Accuracy: 11.8
+testing accuracy 13 | (4, 4) | (2, 2) | (2, 2) | 7
+Accuracy: 12.9
+testing accuracy 13 | (4, 4) | (2, 2) | (2, 2) | 10
+Accuracy: 12.3
+testing accuracy 13 | (4, 4) | (2, 2) | (2, 2) | 14
+Accuracy: 12.2
+testing accuracy 13 | (4, 4) | (2, 2) | (2, 2) | 18
+Accuracy: 13.3
+testing accuracy 13 | (4, 4) | (2, 2) | (2, 2) | 25
+Accuracy: 13.3
+testing accuracy 13 | (4, 4) | (2, 2) | (4, 4) | 4
+Accuracy: 10.2
+testing accuracy 13 | (4, 4) | (2, 2) | (4, 4) | 7
+Accuracy: 10.1
+testing accuracy 13 | (4, 4) | (2, 2) | (4, 4) | 10
+Accuracy: 10.5
+testing accuracy 13 | (4, 4) | (2, 2) | (4, 4) | 14
+Accuracy: 10.4
+testing accuracy 13 | (4, 4) | (2, 2) | (4, 4) | 18
+Accuracy: 10.1
+testing accuracy 13 | (4, 4) | (2, 2) | (4, 4) | 25
+Accuracy: 10.8
+testing accuracy 13 | (4, 4) | (4, 4) | (1, 1) | 4
+Accuracy: 4.9
+testing accuracy 13 | (4, 4) | (4, 4) | (1, 1) | 7
+Accuracy: 4.5
+testing accuracy 13 | (4, 4) | (4, 4) | (1, 1) | 10
+Accuracy: 5.1
+testing accuracy 13 | (4, 4) | (4, 4) | (1, 1) | 14
+Accuracy: 5.1
+testing accuracy 13 | (4, 4) | (4, 4) | (1, 1) | 18
+Accuracy: 5.6
+testing accuracy 13 | (4, 4) | (4, 4) | (1, 1) | 25
+Accuracy: 5.8
+testing accuracy 13 | (4, 4) | (4, 4) | (2, 2) | 4
+Accuracy: 9.3
+testing accuracy 13 | (4, 4) | (4, 4) | (2, 2) | 7
+Accuracy: 9.7
+testing accuracy 13 | (4, 4) | (4, 4) | (2, 2) | 10
+Accuracy: 11.1
+testing accuracy 13 | (4, 4) | (4, 4) | (2, 2) | 14
+Accuracy: 9.9
+testing accuracy 13 | (4, 4) | (4, 4) | (2, 2) | 18
+Accuracy: 9.8
+testing accuracy 13 | (4, 4) | (4, 4) | (2, 2) | 25
+Accuracy: 9.6
+testing accuracy 13 | (4, 4) | (4, 4) | (4, 4) | 4
+Accuracy: 8.5
+testing accuracy 13 | (4, 4) | (4, 4) | (4, 4) | 7
+Accuracy: 9.0
+testing accuracy 13 | (4, 4) | (4, 4) | (4, 4) | 10
+Accuracy: 9.3
+testing accuracy 13 | (4, 4) | (4, 4) | (4, 4) | 14
+Accuracy: 9.3
+testing accuracy 13 | (4, 4) | (4, 4) | (4, 4) | 18
+Accuracy: 9.2
+testing accuracy 13 | (4, 4) | (4, 4) | (4, 4) | 25
+Accuracy: 8.7
+testing accuracy 13 | (8, 8) | (1, 1) | (1, 1) | 4
+Accuracy: 10.7
+testing accuracy 13 | (8, 8) | (1, 1) | (1, 1) | 7
+Accuracy: 10.0
+testing accuracy 13 | (8, 8) | (1, 1) | (1, 1) | 10
+Accuracy: 9.3
+testing accuracy 13 | (8, 8) | (1, 1) | (1, 1) | 7 | 2236.715526342392
+Accuracy: 10.0
+testing accuracy 13 | (8, 8) | (1, 1) | (1, 1) | 25 | 2246.976429462433
+Accuracy: 9.3
+testing accuracy 13 | (8, 8) | (1, 1) | (1, 1) | 18 | 2262.97172164917
+Accuracy: 9.0
+testing accuracy 13 | (8, 8) | (1, 1) | (1, 1) | 10 | 2308.296735525131
+Accuracy: 10.0
+testing accuracy 13 | (8, 8) | (1, 1) | (1, 1) | 4 | 2326.688716650009
+Accuracy: 10.7
+testing accuracy 13 | (8, 8) | (1, 1) | (2, 2) | 7 | 2994.163372516632
+Accuracy: 13.4
+testing accuracy 13 | (8, 8) | (1, 1) | (2, 2) | 4 | 3001.8876972198486
+Accuracy: 13.0
+testing accuracy 13 | (8, 8) | (1, 1) | (2, 2) | 25 | 3003.1157851219177
+Accuracy: 14.4
+testing accuracy 13 | (8, 8) | (1, 1) | (2, 2) | 14 | 3003.1701653003693
+Accuracy: 13.4
+testing accuracy 13 | (8, 8) | (1, 1) | (2, 2) | 10 | 3004.8910377025604
+Accuracy: 13.6
+testing accuracy 13 | (8, 8) | (1, 1) | (2, 2) | 18 | 3006.2213022708893
+Accuracy: 13.9
+testing accuracy 13 | (8, 8) | (1, 1) | (4, 4) | 7 | 3439.0016119480133
+Accuracy: 11.9
+testing accuracy 13 | (8, 8) | (1, 1) | (4, 4) | 4 | 3440.276074409485
+Accuracy: 11.4
+testing accuracy 13 | (8, 8) | (1, 1) | (4, 4) | 14 | 3440.7690329551697
+Accuracy: 12.9
+testing accuracy 13 | (8, 8) | (1, 1) | (4, 4) | 18 | 3440.8717699050903
+Accuracy: 12.9
+testing accuracy 13 | (8, 8) | (1, 1) | (4, 4) | 10 | 3441.1132011413574
+Accuracy: 12.0
+testing accuracy 13 | (8, 8) | (1, 1) | (4, 4) | 25 | 3441.706676006317
+Accuracy: 13.1
+testing accuracy 13 | (8, 8) | (1, 1) | (8, 8) | 10 | 3764.5451805591583
+Accuracy: 9.0
+testing accuracy 13 | (8, 8) | (1, 1) | (8, 8) | 4 | 3775.216785669327
+Accuracy: 8.5
+testing accuracy 13 | (8, 8) | (1, 1) | (8, 8) | 25 | 3775.2390599250793
+Accuracy: 8.5
+testing accuracy 13 | (8, 8) | (1, 1) | (8, 8) | 14 | 3776.9341554641724
+Accuracy: 8.6
+testing accuracy 13 | (8, 8) | (1, 1) | (8, 8) | 7 | 3777.245829820633
+Accuracy: 9.9
+testing accuracy 13 | (8, 8) | (1, 1) | (8, 8) | 18 | 3777.2567298412323
+Accuracy: 7.9
+testing accuracy 13 | (8, 8) | (2, 2) | (1, 1) | 14 | 4365.751549959183
+Accuracy: 9.2
+testing accuracy 13 | (8, 8) | (2, 2) | (1, 1) | 7 | 4371.200921535492
+Accuracy: 9.2
+testing accuracy 13 | (8, 8) | (2, 2) | (1, 1) | 10 | 4371.984683513641
+Accuracy: 9.8
+testing accuracy 13 | (8, 8) | (2, 2) | (1, 1) | 25 | 4372.735269546509
+Accuracy: 8.5
+testing accuracy 13 | (8, 8) | (2, 2) | (1, 1) | 4 | 4373.33385014534
+Accuracy: 9.5
+testing accuracy 13 | (8, 8) | (2, 2) | (1, 1) | 18 | 4374.423001289368
+Accuracy: 9.1
+testing accuracy 13 | (8, 8) | (2, 2) | (2, 2) | 4 | 4721.096985816956
+Accuracy: 12.5
+testing accuracy 13 | (8, 8) | (2, 2) | (2, 2) | 18 | 4723.5872530937195
+Accuracy: 13.9
+testing accuracy 13 | (8, 8) | (2, 2) | (2, 2) | 25 | 4724.275465726852
+Accuracy: 13.8
+testing accuracy 13 | (8, 8) | (2, 2) | (2, 2) | 10 | 4724.459060430527
+Accuracy: 13.2
+testing accuracy 13 | (8, 8) | (2, 2) | (2, 2) | 14 | 4724.513192415237
+Accuracy: 13.3
+testing accuracy 13 | (8, 8) | (2, 2) | (2, 2) | 7 | 4724.577876567841
+Accuracy: 13.4
+testing accuracy 13 | (8, 8) | (2, 2) | (4, 4) | 7 | 5020.983620405197
+Accuracy: 12.2
+testing accuracy 13 | (8, 8) | (2, 2) | (4, 4) | 4 | 5021.049770355225
+Accuracy: 11.8
+testing accuracy 13 | (8, 8) | (2, 2) | (4, 4) | 18 | 5022.7332401275635
+Accuracy: 12.4
+testing accuracy 13 | (8, 8) | (2, 2) | (4, 4) | 14 | 5023.04171705246
+Accuracy: 13.1
+testing accuracy 13 | (8, 8) | (2, 2) | (4, 4) | 25 | 5023.191044092178
+Accuracy: 12.3
+testing accuracy 13 | (8, 8) | (2, 2) | (4, 4) | 10 | 5023.3296439647675
+Accuracy: 12.7
+testing accuracy 13 | (8, 8) | (2, 2) | (8, 8) | 7 | 5276.0733280181885
+Accuracy: 9.0
+testing accuracy 13 | (8, 8) | (2, 2) | (8, 8) | 18 | 5277.621242284775
+Accuracy: 7.5
+testing accuracy 13 | (8, 8) | (2, 2) | (8, 8) | 25 | 5278.9799518585205
+Accuracy: 8.1
+testing accuracy 13 | (8, 8) | (2, 2) | (8, 8) | 14 | 5281.221796512604
+Accuracy: 8.5
+testing accuracy 13 | (8, 8) | (2, 2) | (8, 8) | 4 | 5281.532885313034
+Accuracy: 8.5
+testing accuracy 13 | (8, 8) | (2, 2) | (8, 8) | 10 | 5282.152458906174
+Accuracy: 9.0
+testing accuracy 13 | (8, 8) | (4, 4) | (1, 1) | 4 | 5616.895530223846
+Accuracy: 9.2
+testing accuracy 13 | (8, 8) | (4, 4) | (1, 1) | 18 | 5617.858833551407
+Accuracy: 8.6
+testing accuracy 13 | (8, 8) | (4, 4) | (1, 1) | 7 | 5625.5073528289795
+Accuracy: 9.7
+testing accuracy 13 | (8, 8) | (4, 4) | (1, 1) | 10 | 5625.65882396698
+Accuracy: 9.4
+testing accuracy 13 | (8, 8) | (4, 4) | (1, 1) | 25 | 5626.9045696258545
+Accuracy: 8.7
+testing accuracy 13 | (8, 8) | (4, 4) | (1, 1) | 14 | 5627.90958237648
+Accuracy: 8.8
+testing accuracy 13 | (8, 8) | (4, 4) | (2, 2) | 4 | 5931.590628385544
+Accuracy: 12.6
+testing accuracy 13 | (8, 8) | (4, 4) | (2, 2) | 18 | 5932.075225114822
+Accuracy: 13.9
+testing accuracy 13 | (8, 8) | (4, 4) | (2, 2) | 10 | 5938.090805768967
+Accuracy: 13.6
+testing accuracy 13 | (8, 8) | (4, 4) | (2, 2) | 25 | 5938.265738725662
+Accuracy: 13.1
+testing accuracy 13 | (8, 8) | (4, 4) | (2, 2) | 14 | 5938.348055839539
+Accuracy: 13.6
+testing accuracy 13 | (8, 8) | (4, 4) | (2, 2) | 7 | 5939.187571763992
+Accuracy: 13.5
+testing accuracy 13 | (8, 8) | (4, 4) | (4, 4) | 18 | 6183.303932905197
+Accuracy: 12.0
+testing accuracy 13 | (8, 8) | (4, 4) | (4, 4) | 25 | 6191.239771366119
+Accuracy: 13.2
+testing accuracy 13 | (8, 8) | (4, 4) | (4, 4) | 4 | 6194.961197376251
+Accuracy: 11.9
+testing accuracy 13 | (8, 8) | (4, 4) | (4, 4) | 10 | 6197.288176059723
+Accuracy: 12.5
+testing accuracy 13 | (8, 8) | (4, 4) | (4, 4) | 7 | 6197.938430547714
+Accuracy: 12.5
+testing accuracy 13 | (8, 8) | (4, 4) | (4, 4) | 14 | 6198.180125713348
+Accuracy: 11.8
+testing accuracy 13 | (8, 8) | (4, 4) | (8, 8) | 4 | 6430.9160969257355
+Accuracy: 8.3
+testing accuracy 13 | (8, 8) | (4, 4) | (8, 8) | 7 | 6431.0396847724915
+Accuracy: 8.4
+testing accuracy 13 | (8, 8) | (4, 4) | (8, 8) | 25 | 6432.236206531525
+Accuracy: 8.5
+testing accuracy 13 | (8, 8) | (4, 4) | (8, 8) | 10 | 6432.368834495544
+Accuracy: 8.6
+testing accuracy 13 | (8, 8) | (4, 4) | (8, 8) | 14 | 6432.683935403824
+Accuracy: 9.1
+testing accuracy 13 | (8, 8) | (4, 4) | (8, 8) | 18 | 6432.742060661316
+Accuracy: 9.3
+testing accuracy 13 | (8, 8) | (8, 8) | (1, 1) | 7 | 6727.855659008026
+Accuracy: 6.7
+testing accuracy 13 | (8, 8) | (8, 8) | (1, 1) | 10 | 6731.413625717163
+Accuracy: 6.6
+testing accuracy 13 | (8, 8) | (8, 8) | (1, 1) | 18 | 6734.1819903850555
+Accuracy: 6.8
+testing accuracy 13 | (8, 8) | (8, 8) | (1, 1) | 4 | 6736.878947496414
+Accuracy: 5.8
+testing accuracy 13 | (8, 8) | (8, 8) | (1, 1) | 14 | 6737.680106163025
+Accuracy: 6.3
+testing accuracy 13 | (8, 8) | (8, 8) | (1, 1) | 25 | 6738.321048974991
+Accuracy: 7.3
+testing accuracy 13 | (8, 8) | (8, 8) | (2, 2) | 7 | 6977.10862827301
+Accuracy: 10.5
+testing accuracy 13 | (8, 8) | (8, 8) | (2, 2) | 14 | 6977.335506677628
+Accuracy: 11.4
+testing accuracy 13 | (8, 8) | (8, 8) | (2, 2) | 4 | 6980.922899484634
+Accuracy: 10.2
+testing accuracy 13 | (8, 8) | (8, 8) | (2, 2) | 10 | 6985.048949241638
+Accuracy: 11.6
+testing accuracy 13 | (8, 8) | (8, 8) | (2, 2) | 25 | 6988.3058552742
+Accuracy: 12.0
+testing accuracy 13 | (8, 8) | (8, 8) | (2, 2) | 18 | 6990.858717441559
+Accuracy: 11.7
+testing accuracy 13 | (8, 8) | (8, 8) | (4, 4) | 7 | 7222.869572877884
+Accuracy: 9.5
+testing accuracy 13 | (8, 8) | (8, 8) | (4, 4) | 25 | 7226.1129286289215
+Accuracy: 9.6
+testing accuracy 13 | (8, 8) | (8, 8) | (4, 4) | 14 | 7226.987610578537
+Accuracy: 10.3
+testing accuracy 13 | (8, 8) | (8, 8) | (4, 4) | 18 | 7228.195546388626
+Accuracy: 10.2
+testing accuracy 13 | (8, 8) | (8, 8) | (4, 4) | 4 | 7228.230636835098
+Accuracy: 8.9
+testing accuracy 13 | (8, 8) | (8, 8) | (4, 4) | 10 | 7228.237299203873
+Accuracy: 10.4
+testing accuracy 13 | (8, 8) | (8, 8) | (8, 8) | 10 | 7373.708818912506
+Accuracy: 7.0
+testing accuracy 13 | (8, 8) | (8, 8) | (8, 8) | 18 | 7376.06156873703
+Accuracy: 6.7
+testing accuracy 13 | (8, 8) | (8, 8) | (8, 8) | 14 | 7376.855538368225
+Accuracy: 7.1
+testing accuracy 13 | (8, 8) | (8, 8) | (8, 8) | 25 | 7377.022488594055
+Accuracy: 7.3
+testing accuracy 13 | (8, 8) | (8, 8) | (8, 8) | 4 | 7377.147056818008
+Accuracy: 6.9
+testing accuracy 13 | (8, 8) | (8, 8) | (8, 8) | 7 | 7377.170715808868
+Accuracy: 7.0
+testing accuracy 10 | (8, 8) | (1, 1) | (2, 2) | 22 | 56470.622421741486
+Accuracy: 13.1
+testing accuracy 10 | (8, 8) | (1, 1) | (2, 2) | 18 | 56470.92225265503
+Accuracy: 12.4
+testing accuracy 10 | (8, 8) | (1, 1) | (2, 2) | 50 | 56470.9744143486
+Accuracy: 12.7
+testing accuracy 10 | (8, 8) | (1, 1) | (2, 2) | 20 | 56472.227956056595
+Accuracy: 12.6
+testing accuracy 10 | (8, 8) | (1, 1) | (2, 2) | 27 | 56472.66512131691
+Accuracy: 13.0
+testing accuracy 10 | (8, 8) | (1, 1) | (2, 2) | 30 | 56472.965359926224
+Accuracy: 12.8
+testing accuracy 10 | (8, 8) | (1, 1) | (2, 2) | 25 | 56473.78642511368
+Accuracy: 13.4
+testing accuracy 10 | (8, 8) | (4, 4) | (2, 2) | 30 | 56940.68401813507
+Accuracy: 13.7
+testing accuracy 10 | (8, 8) | (4, 4) | (2, 2) | 18 | 56943.78730940819
+Accuracy: 13.8
+testing accuracy 10 | (8, 8) | (4, 4) | (2, 2) | 50 | 56946.01910686493
+Accuracy: 13.4
+testing accuracy 10 | (8, 8) | (4, 4) | (2, 2) | 27 | 56948.71020364761
+Accuracy: 13.7
+testing accuracy 10 | (8, 8) | (4, 4) | (2, 2) | 20 | 56949.5352165699
+Accuracy: 13.2
+testing accuracy 10 | (8, 8) | (4, 4) | (2, 2) | 22 | 56949.866827726364
+Accuracy: 13.9
+testing accuracy 10 | (8, 8) | (4, 4) | (2, 2) | 25 | 56950.94975733757
+Accuracy: 13.9
+testing accuracy 12 | (8, 8) | (1, 1) | (2, 2) | 27 | 57661.01509356499
+Accuracy: 13.5
+testing accuracy 12 | (8, 8) | (1, 1) | (2, 2) | 20 | 57671.70937347412
+Accuracy: 13.1
+testing accuracy 12 | (8, 8) | (1, 1) | (2, 2) | 18 | 57683.14880990982
+Accuracy: 12.9
+testing accuracy 12 | (8, 8) | (1, 1) | (2, 2) | 22 | 57686.36779141426
+Accuracy: 13.4
+testing accuracy 12 | (8, 8) | (1, 1) | (2, 2) | 30 | 57686.985241651535
+Accuracy: 12.8
+testing accuracy 12 | (8, 8) | (1, 1) | (2, 2) | 25 | 57687.12994766235
+Accuracy: 13.3
+testing accuracy 12 | (8, 8) | (1, 1) | (2, 2) | 50 | 57687.434492111206
+Accuracy: 13.8
+testing accuracy 12 | (8, 8) | (4, 4) | (2, 2) | 22 | 58147.2343313694
+Accuracy: 14.4
+testing accuracy 12 | (8, 8) | (4, 4) | (2, 2) | 30 | 58147.80663537979
+Accuracy: 13.9
+testing accuracy 12 | (8, 8) | (4, 4) | (2, 2) | 50 | 58148.1751101017
+Accuracy: 13.2
+testing accuracy 12 | (8, 8) | (4, 4) | (2, 2) | 20 | 58149.31814599037
+Accuracy: 13.8
+testing accuracy 12 | (8, 8) | (4, 4) | (2, 2) | 18 | 58149.356548309326
+Accuracy: 14.5
+testing accuracy 12 | (8, 8) | (4, 4) | (2, 2) | 25 | 58150.521569013596
+Accuracy: 13.9
+testing accuracy 12 | (8, 8) | (4, 4) | (2, 2) | 27 | 58150.557691812515
+Accuracy: 14.2
+testing accuracy 9 | (8, 8) | (4, 4) | (2, 2) | 25 | 1745464386.3993187
+Accuracy: 21.2
+testing accuracy 9 | (8, 8) | (4, 4) | (2, 2) | 22 | 1745464398.143203
+Accuracy: 20.8
+testing accuracy 9 | (8, 8) | (4, 4) | (2, 2) | 14 | 1745464403.4008915
+Accuracy: 22.7
+testing accuracy 9 | (8, 8) | (4, 4) | (2, 2) | 10 | 1745464405.815524
+Accuracy: 23.6
+testing accuracy 9 | (8, 8) | (4, 4) | (2, 2) | 27 | 1745464407.281623
+Accuracy: 21.0
+testing accuracy 9 | (8, 8) | (4, 4) | (2, 2) | 18 | 1745464407.7817035
+Accuracy: 21.2
+testing accuracy 11 | (8, 8) | (4, 4) | (2, 2) | 27 | 1745466980.803638
+Accuracy: 20.7
+testing accuracy 11 | (8, 8) | (4, 4) | (2, 2) | 10 | 1745467007.8588314
+Accuracy: 24.0
+testing accuracy 11 | (8, 8) | (4, 4) | (2, 2) | 22 | 1745467027.4064965
+Accuracy: 21.3
+testing accuracy 11 | (8, 8) | (4, 4) | (2, 2) | 18 | 1745467034.359706
+Accuracy: 22.3
+testing accuracy 11 | (8, 8) | (4, 4) | (2, 2) | 25 | 1745467037.7091107
+Accuracy: 21.2
+testing accuracy 11 | (8, 8) | (4, 4) | (2, 2) | 14 | 1745467042.844484
+Accuracy: 22.6
+testing accuracy 12 | (8, 8) | (4, 4) | (2, 2) | 27 | 1745469691.5929058
+Accuracy: 21.2
+testing accuracy 12 | (8, 8) | (4, 4) | (2, 2) | 25 | 1745469711.2420282
+Accuracy: 21.9
+testing accuracy 12 | (8, 8) | (4, 4) | (2, 2) | 14 | 1745469753.5775397
+Accuracy: 23.2
+testing accuracy 12 | (8, 8) | (4, 4) | (2, 2) | 18 | 1745469755.4092672
+Accuracy: 22.2
+testing accuracy 12 | (8, 8) | (4, 4) | (2, 2) | 10 | 1745469762.3920875
+Accuracy: 24.6
+testing accuracy 12 | (8, 8) | (4, 4) | (2, 2) | 22 | 1745469763.9272377
+Accuracy: 21.8
