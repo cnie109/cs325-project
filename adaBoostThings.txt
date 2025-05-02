@@ -1,0 +1,69 @@
+"""
+
+
+ABSOLUTELY NOTHING THAT WAS DONE WITH ADABOOST WAS VALUABLE BECAUSE OF A FUCK UP THAT CAUSED THE TRAINING TO BE GARBAGE
+
+I'm leaving it all here just because I can
+
+I will not be commenting or cleaning up any of it
+
+
+
+"""
+
+
+Depth: 1, n: 10 Accuracy: 0.01529999999999998
+Depth: 2, n: 10 Accuracy: 0.018900000000000028
+Depth: 3, n: 10 Accuracy: 0.019399999999999973
+Depth: 4, n: 10 Accuracy: 0.018900000000000028
+Depth: 1, n: 50 Accuracy: 0.01880000000000004
+Depth: 2, n: 50 Accuracy: 0.027000000000000024
+Depth: 1, n: 100 Accuracy: 0.023499999999999965
+Depth: 3, n: 50 Accuracy: 0.02969999999999995 
+Depth: 4, n: 50 Accuracy: 0.029100000000000015
+Depth: 2, n: 100 Accuracy: 0.03159999999999996
+Depth: 1, n: 250 Accuracy: 0.03280000000000005
+Depth: 3, n: 100 Accuracy: 0.025800000000000045
+Depth: 4, n: 100 Accuracy: 0.026800000000000046
+Depth: 2, n: 250 Accuracy: 0.02939999999999998
+Depth: 1, n: 500 Accuracy: 0.034399999999999986
+Depth: 3, n: 250 Accuracy: 0.02849999999999997
+Depth: 2, n: 500 Accuracy: 0.03290000000000004
+Depth: 4, n: 250 Accuracy: 0.030299999999999994
+Depth: 3, n: 500 Accuracy: 0.03320000000000001
+Depth: 4, n: 500 Accuracy: 0.03159999999999996
+Depth: 1, n: 1000 Accuracy: 0.038900000000000046
+Depth: 2, n: 1000 Accuracy: 0.032299999999999995
+Depth: 1, n: 2500 Accuracy: 0.04269999999999996
+Depth: 3, n: 1000 Accuracy: 0.03490000000000004
+Depth: 2, n: 2500 Accuracy: 0.03990000000000005
+Depth: 3, n: 2500 Accuracy: 0.03749999999999998
+
+
+
+
+
+
+"""
+
+The actually usable stuff
+
+"""
+
+
+Depth: 1, n: 10 Accuracy: 0.018000000000000016
+Depth: 2, n: 10 Accuracy: 0.027699999999999947
+Depth: 3, n: 10 Accuracy: 0.05349999999999999
+Depth: 4, n: 10 Accuracy: 0.0625
+Depth: 1, n: 50 Accuracy: 0.028000000000000025
+Depth: 2, n: 50 Accuracy: 0.056400000000000006
+Depth: 1, n: 100 Accuracy: 0.024499999999999966
+Depth: 3, n: 50 Accuracy: 0.07669999999999999
+Depth: 4, n: 50 Accuracy: 0.08899999999999997
+Depth: 2, n: 100 Accuracy: 0.07210000000000005
+Depth: 1, n: 250 Accuracy: 0.04400000000000004
+Depth: 3, n: 100 Accuracy: 0.08599999999999997
+Depth: 4, n: 100 Accuracy: 0.0938
+Depth: 2, n: 250 Accuracy: 0.0877
+Depth: 1, n: 500 Accuracy: 0.06410000000000005
+Depth: 3, n: 250 Accuracy: 0.09350000000000003
